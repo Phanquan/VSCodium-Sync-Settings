@@ -1,6 +1,1101 @@
+eamodio.gitlens: '{"gitlens:premium:subscription":{"v":1,"data":{"plan":{"actual":{"id":"community","name":"GitLens
+  Community","bundle":false,"cancelled":false,"trialReactivationCount":0,"startedOn":"2025-04-07T02:51:59.859Z"},"effective":{"id":"community","name":"GitLens
+  Community","bundle":false,"cancelled":false,"trialReactivationCount":0,"startedOn":"2025-04-07T02:51:59.859Z"}},"state":2,"previewTrial":{"startedOn":"1970-01-01T00:00:00.000Z","expiresOn":"1970-01-01T00:00:00.000Z"}}},"gitlens:version":"17.0.1","gitlens:synced:version":"17.0.1","gitlens:product:config":{"data":{"promos":[{"key":"gkholiday","code":"GKHOLIDAY","states":[0,1,2,3,4,5],"expiresOn":1742194740000,"startsOn":1738825140000,"content":{"quickpick":{"detail":"$(star-full)
+  Save up to 80% on GitLens Pro"},"webview":{"info":{"html":"<b>Save up to
+  80%</b> on GitLens Pro"},"link":{"html":"<b>Save up to 80%</b> on GitLens
+  Pro","title":"Upgrade now and save up to 80% on GitLens
+  Pro"}}},"percentile":50},{"key":"pro50","states":[0,1,2,3,4,5],"locations":["home","account","badge","gate"],"content":{"quickpick":{"detail":"$(star-full)
+  Save 50% on GitLens Pro"},"webview":{"info":{"html":"<b>Save 50%</b> on
+  GitLens Pro"},"link":{"html":"<b>Save 50%</b> on GitLens Pro","title":"Upgrade
+  now and save 50% on GitLens
+  Pro"}}}}]},"v":1,"timestamp":1744195494633},"gitlens:usages":{"homeView:shown":{"count":1,"firstUsedAt":1744000755868,"lastUsedAt":1744000755868}}}'
 mhutchie.git-graph: '{"lastKnownGitPath":"/usr/local/bin/git"}'
 ritwickdey.LiveServer: '{"liveServer.setup.version":"5.7.9"}'
-workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.flutter","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.flutterPropertyEditor","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.sidebarDevToolsContainer","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.sidebarDevToolsInspectorContainer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.sidebarDevToolsDeepLinksContainer","pinned":true,"visible":false,"order":13},{"id":"workbench.views.service.sidebar.e248610a-50a8-411f-8ffb-6f3af1417df7","pinned":true,"visible":false},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.views.service.sidebar.41b8bf30-1720-40d5-b1d3-5f0b19ca4c20","pinned":true,"visible":false},{"id":"workbench.views.service.sidebar.fedb6bd0-719f-4885-a20c-bb0fcd0216cd","pinned":true,"visible":false},{"id":"workbench.views.service.sidebar.386a1966-91f0-4d04-8002-d00e58e119c4","pinned":true,"visible":false},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":10}]'
+saoudrizwan.claude-dev: "{\"planActSeparateModelsSetting\":false,\"lastShownAnn\
+  ouncementId\":\"april-7-2025\",\"mcpMarketplaceCatalog\":{\"items\":[{\"mcpId\
+  \":\"github.com/AgentDeskAI/browser-tools-mcp\",\"githubUrl\":\"https://githu\
+  b.com/AgentDeskAI/browser-tools-mcp\",\"name\":\"Browser
+  Tools\",\"author\":\"AgentDeskAI\",\"description\":\"A browser monitoring and
+  interaction toolkit that enables AI tools to capture screenshots, analyze
+  console logs, track network activity, perform audits, and interact with DOM
+  elements via Chrome
+  extension.\",\"codiconIcon\":\"browser\",\"logoUrl\":\"https://storage.google\
+  apis.com/cline_public_images/browser-tools.png\",\"category\":\"browser-autom\
+  ation\",\"tags\":[\"chrome-extension\",\"debugging\",\"web-auditing\",\"monit\
+  oring\",\"automation\"],\"requiresApiKey\":false,\"isRecommended\":false,\"gi\
+  thubStars\":3020,\"downloadCount\":31945,\"createdAt\":\"2025-03-11T02:29:39.\
+  738183Z\",\"updatedAt\":\"2025-03-11T02:29:39.738183Z\"},{\"mcpId\":\"github.\
+  com/modelcontextprotocol/servers/tree/main/src/github\",\"githubUrl\":\"https\
+  ://github.com/modelcontextprotocol/servers/tree/main/src/github\",\"name\":\"\
+  GitHub\",\"author\":\"modelcontextprotocol\",\"description\":\"Comprehensive
+  GitHub API integration enabling repository management, file operations, issue
+  tracking, pull request handling, and advanced search functionality across
+  code, issues, and
+  users.\",\"codiconIcon\":\"github\",\"logoUrl\":\"https://storage.googleapis.\
+  com/cline_public_images/github.png\",\"category\":\"version-control\",\"tags\
+  \":[\"github\",\"git\",\"repository-management\",\"code-collaboration\",\"ver\
+  sion-control\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\
+  \":32350,\"downloadCount\":30691,\"createdAt\":\"2025-02-17T22:22:31.362545Z\
+  \",\"updatedAt\":\"2025-02-17T22:22:31.362545Z\"},{\"mcpId\":\"github.com/mod\
+  elcontextprotocol/servers/tree/main/src/filesystem\",\"githubUrl\":\"https://\
+  github.com/modelcontextprotocol/servers/tree/main/src/filesystem\",\"name\":\
+  \"File System\",\"author\":\"modelcontextprotocol\",\"description\":\"Provides
+  comprehensive filesystem operations including reading, writing, moving files,
+  directory management, and advanced file editing with pattern matching and
+  formatting
+  capabilities.\",\"codiconIcon\":\"folder\",\"logoUrl\":\"https://storage.goog\
+  leapis.com/cline_public_images/file-system.png\",\"category\":\"file-systems\
+  \",\"tags\":[\"filesystem\",\"file-management\",\"directory-operations\",\"fi\
+  le-search\",\"file-editing\"],\"requiresApiKey\":false,\"isRecommended\":true,\
+  \"githubStars\":32340,\"downloadCount\":25907,\"createdAt\":\"2025-02-17T22:2\
+  2:00.256588Z\",\"updatedAt\":\"2025-02-17T22:22:00.256588Z\"},{\"mcpId\":\"gi\
+  thub.com/modelcontextprotocol/servers/tree/main/src/git\",\"githubUrl\":\"htt\
+  ps://github.com/modelcontextprotocol/servers/tree/main/src/git\",\"name\":\"G\
+  it Tools\",\"author\":\"modelcontextprotocol\",\"description\":\"Provides Git
+  repository interaction and automation tools for reading, searching, and
+  manipulating Git repositories through commands like status, diff, commit,
+  branch management, and
+  more.\",\"codiconIcon\":\"git-merge\",\"logoUrl\":\"https://storage.googleapi\
+  s.com/cline_public_images/git-tools.png\",\"category\":\"version-control\",\"\
+  tags\":[\"git\",\"version-control\",\"repository-management\",\"source-control\
+  \",\"development\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubS\
+  tars\":33125,\"downloadCount\":23563,\"createdAt\":\"2025-02-19T02:22:25.9166\
+  6Z\",\"updatedAt\":\"2025-02-19T02:22:25.91666Z\"},{\"mcpId\":\"github.com/mo\
+  delcontextprotocol/servers/tree/main/src/sequentialthinking\",\"githubUrl\":\
+  \"https://github.com/modelcontextprotocol/servers/tree/main/src/sequentialthi\
+  nking\",\"name\":\"Sequential
+  Thinking\",\"author\":\"modelcontextprotocol\",\"description\":\"A structured
+  problem-solving tool that enables step-by-step analysis, thought revision, and
+  branching logic for complex reasoning
+  tasks.\",\"codiconIcon\":\"brain\",\"logoUrl\":\"https://storage.googleapis.c\
+  om/cline_public_images/sequential-thinking.png\",\"category\":\"knowledge-mem\
+  ory\",\"tags\":[\"problem-solving\",\"reasoning\",\"analysis\",\"structured-t\
+  hinking\",\"decision-making\"],\"requiresApiKey\":false,\"isRecommended\":tru\
+  e,\"githubStars\":32577,\"downloadCount\":17968,\"createdAt\":\"2025-02-18T05\
+  :45:21.365219Z\",\"updatedAt\":\"2025-02-18T05:45:21.365219Z\"},{\"mcpId\":\"\
+  github.com/zcaceres/fetch-mcp\",\"githubUrl\":\"https://github.com/zcaceres/f\
+  etch-mcp\",\"name\":\"Fetch\",\"author\":\"zcaceres\",\"description\":\"Provi\
+  des functionality to fetch web content in various formats, including HTML,
+  JSON, plain text, and Markdown, with support for custom headers and content
+  transformation.\",\"codiconIcon\":\"cloud-download\",\"logoUrl\":\"https://st\
+  orage.googleapis.com/cline_public_images/fetch.png\",\"category\":\"search\",\
+  \"tags\":[\"web-fetching\",\"html\",\"json\",\"markdown\",\"content-extraction\
+  \"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":236,\"do\
+  wnloadCount\":16171,\"createdAt\":\"2025-02-19T00:55:59.104097Z\",\"updatedAt\
+  \":\"2025-02-19T00:55:59.104097Z\"},{\"mcpId\":\"github.com/mendableai/firecr\
+  awl-mcp-server\",\"githubUrl\":\"https://github.com/mendableai/firecrawl-mcp-\
+  server\",\"name\":\"FireCrawl\",\"author\":\"mendableai\",\"description\":\"A\
+  dvanced web scraping and crawling server with JavaScript rendering, batch
+  processing, smart content filtering, and structured data extraction
+  capabilities.\",\"codiconIcon\":\"globe\",\"logoUrl\":\"https://storage.googl\
+  eapis.com/cline_public_images/firecrawl.jpg\",\"category\":\"search\",\"tags\
+  \":[\"web-scraping\",\"crawling\",\"data-extraction\",\"batch-processing\",\"\
+  content-filtering\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githu\
+  bStars\":2131,\"downloadCount\":15053,\"createdAt\":\"2025-02-21T18:35:28.390\
+  028Z\",\"updatedAt\":\"2025-02-21T18:35:28.390028Z\"},{\"mcpId\":\"github.com\
+  /modelcontextprotocol/servers/tree/main/src/puppeteer\",\"githubUrl\":\"https\
+  ://github.com/modelcontextprotocol/servers/tree/main/src/puppeteer\",\"name\":\
+  \"Puppeteer\",\"author\":\"modelcontextprotocol\",\"description\":\"Provides
+  browser automation capabilities using Puppeteer, enabling web page
+  interaction, screenshots, and JavaScript execution in a real browser
+  environment.\",\"codiconIcon\":\"browser\",\"logoUrl\":\"https://storage.goog\
+  leapis.com/cline_public_images/puppeteer.png\",\"category\":\"browser-automat\
+  ion\",\"tags\":[\"web-automation\",\"screenshots\",\"browser-control\",\"java\
+  script\",\"testing\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githu\
+  bStars\":32590,\"downloadCount\":13110,\"createdAt\":\"2025-02-18T05:45:10.81\
+  3537Z\",\"updatedAt\":\"2025-02-18T05:45:10.813537Z\"},{\"mcpId\":\"github.co\
+  m/Saik0s/mcp-browser-use\",\"githubUrl\":\"https://github.com/Saik0s/mcp-brow\
+  ser-use\",\"name\":\"Browser
+  Use\",\"author\":\"Saik0s\",\"description\":\"AI-driven browser automation
+  server enabling natural language control of web browsers with features like
+  page navigation, form filling, visual understanding, and session
+  persistence.\",\"codiconIcon\":\"browser\",\"logoUrl\":\"https://storage.goog\
+  leapis.com/cline_public_images/browseruse.png\",\"category\":\"browser-automa\
+  tion\",\"tags\":[\"browser-automation\",\"web-interaction\",\"visual-analysis\
+  \",\"session-management\",\"multi-llm\"],\"requiresApiKey\":false,\"isRecomme\
+  nded\":false,\"githubStars\":270,\"downloadCount\":12246,\"createdAt\":\"2025\
+  -03-27T20:09:01.19066Z\",\"updatedAt\":\"2025-03-27T20:09:01.19066Z\"},{\"mcp\
+  Id\":\"github.com/modelcontextprotocol/servers/tree/main/src/brave-search\",\
+  \"githubUrl\":\"https://github.com/modelcontextprotocol/servers/tree/main/src\
+  /brave-search\",\"name\":\"Brave
+  Search\",\"author\":\"modelcontextprotocol\",\"description\":\"Integrates
+  Brave Search API to provide comprehensive web and local search capabilities
+  with smart filtering, pagination, and automatic
+  fallbacks.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.googlea\
+  pis.com/cline_public_images/brave-search.png\",\"category\":\"search\",\"tags\
+  \":[\"search-engine\",\"local-search\",\"web-search\",\"brave-api\",\"content\
+  -discovery\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\"\
+  :32341,\"downloadCount\":10304,\"createdAt\":\"2025-02-17T22:22:18.563691Z\",\
+  \"updatedAt\":\"2025-02-17T22:22:18.563691Z\"},{\"mcpId\":\"github.com/modelc\
+  ontextprotocol/servers/tree/main/src/time\",\"githubUrl\":\"https://github.co\
+  m/modelcontextprotocol/servers/tree/main/src/time\",\"name\":\"Time\",\"author\
+  \":\"modelcontextprotocol\",\"description\":\"Provides time and timezone
+  conversion capabilities using IANA timezone names, with automatic system
+  timezone detection and support for current time
+  queries.\",\"codiconIcon\":\"clock\",\"logoUrl\":\"https://storage.googleapis\
+  .com/cline_public_images/time.png\",\"category\":\"developer-tools\",\"tags\"\
+  :[\"timezone\",\"time-conversion\",\"datetime\",\"scheduling\",\"automation\"\
+  ],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":32604,\"dow\
+  nloadCount\":10011,\"createdAt\":\"2025-02-18T05:45:35.164727Z\",\"updatedAt\
+  \":\"2025-02-18T05:45:35.164727Z\"},{\"mcpId\":\"github.com/21st-dev/magic-mcp\
+  \",\"githubUrl\":\"https://github.com/21st-dev/magic-mcp\",\"name\":\"Magic
+  UI\",\"author\":\"21st-dev\",\"description\":\"Create modern UI components
+  instantly through natural language descriptions, with IDE integrations and
+  access to a vast library of pre-built, customizable
+  components.\",\"codiconIcon\":\"layout\",\"logoUrl\":\"https://storage.google\
+  apis.com/cline_public_images/ui-component-generator.png\",\"category\":\"deve\
+  loper-tools\",\"tags\":[\"ui-generation\",\"component-library\",\"ide-integra\
+  tion\",\"typescript\",\"react\"],\"requiresApiKey\":false,\"isRecommended\":f\
+  alse,\"githubStars\":1037,\"downloadCount\":8678,\"createdAt\":\"2025-03-03T0\
+  6:37:07.504691Z\",\"updatedAt\":\"2025-03-03T06:37:07.504691Z\"},{\"mcpId\":\
+  \"github.com/ahujasid/blender-mcp\",\"githubUrl\":\"https://github.com/ahujas\
+  id/blender-mcp\",\"name\":\"Blender\",\"author\":\"ahujasid\",\"description\":\
+  \"Enables AI assistants to control Blender for 3D modeling, scene creation,
+  and asset management through socket-based communication, with support for Poly
+  Haven assets and Hyper3D Rodin
+  models.\",\"codiconIcon\":\"symbol-cube\",\"logoUrl\":\"https://storage.googl\
+  eapis.com/cline_public_images/blender-control.png\",\"category\":\"image-vide\
+  o-processing\",\"tags\":[\"3d-modeling\",\"blender\",\"asset-management\",\"s\
+  cene-creation\",\"visualization\"],\"requiresApiKey\":false,\"isRecommended\"\
+  :false,\"githubStars\":9531,\"downloadCount\":8617,\"createdAt\":\"2025-03-17\
+  T01:52:54.102355Z\",\"updatedAt\":\"2025-03-17T01:52:54.102355Z\"},{\"mcpId\":\
+  \"github.com/pashpashpash/perplexity-mcp\",\"githubUrl\":\"https://github.com\
+  /pashpashpash/perplexity-mcp\",\"name\":\"Perplexity
+  Research\",\"author\":\"pashpashpash\",\"description\":\"Leverages
+  Perplexity's Sonar Pro API to provide comprehensive research capabilities,
+  including documentation search, API discovery, and code deprecation analysis
+  with chain-of-thought
+  reasoning.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.googlea\
+  pis.com/cline_public_images/perplexity-ai-icon.png\",\"category\":\"research-\
+  data\",\"tags\":[\"research\",\"documentation\",\"api-discovery\",\"code-anal\
+  ysis\",\"perplexity\"],\"requiresApiKey\":false,\"isRecommended\":false,\"git\
+  hubStars\":18,\"downloadCount\":8562,\"createdAt\":\"2025-02-19T00:44:43.2533\
+  2Z\",\"updatedAt\":\"2025-02-19T00:44:43.25332Z\"},{\"mcpId\":\"github.com/ex\
+  ecuteautomation/mcp-playwright\",\"githubUrl\":\"https://github.com/executeau\
+  tomation/mcp-playwright\",\"name\":\"Playwright\",\"author\":\"executeautomat\
+  ion\",\"description\":\"Browser automation server that enables LLMs to
+  interact with web pages, take screenshots, and execute JavaScript in a real
+  browser environment using
+  Playwright.\",\"codiconIcon\":\"browser\",\"logoUrl\":\"https://storage.googl\
+  eapis.com/cline_public_images/playwright.png\",\"category\":\"browser-automat\
+  ion\",\"tags\":[\"browser-automation\",\"web-testing\",\"screenshots\",\"java\
+  script\",\"playwright\"],\"requiresApiKey\":false,\"isRecommended\":false,\"g\
+  ithubStars\":2524,\"downloadCount\":8503,\"createdAt\":\"2025-02-17T22:45:31.\
+  388884Z\",\"updatedAt\":\"2025-02-17T22:45:31.388884Z\"},{\"mcpId\":\"github.\
+  com/alexander-zuev/supabase-mcp-server\",\"githubUrl\":\"https://github.com/a\
+  lexander-zuev/supabase-mcp-server\",\"name\":\"Supabase\",\"author\":\"alexan\
+  der-zuev\",\"description\":\"Enables direct interaction with Supabase
+  PostgreSQL databases, providing database management tools including schema
+  exploration, SQL query validation, and secure read-only
+  access.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.googleap\
+  is.com/cline_public_images/supabase.png\",\"category\":\"databases\",\"tags\"\
+  :[\"postgresql\",\"supabase\",\"database-management\",\"sql\",\"schema-explor\
+  ation\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":622,\
+  \"downloadCount\":7892,\"createdAt\":\"2025-02-19T00:44:50.26296Z\",\"updated\
+  At\":\"2025-02-19T00:44:50.26296Z\"},{\"mcpId\":\"github.com/GLips/Figma-Cont\
+  ext-MCP\",\"githubUrl\":\"https://github.com/GLips/Figma-Context-MCP\",\"name\
+  \":\"Figma\",\"author\":\"GLips\",\"description\":\"Provides AI assistants
+  with access to Figma design data, enabling accurate code generation from
+  design files by fetching and simplifying Figma API responses for optimal
+  context.\",\"codiconIcon\":\"symbol-color\",\"logoUrl\":\"https://storage.goo\
+  gleapis.com/cline_public_images/figma.png\",\"category\":\"developer-tools\",\
+  \"tags\":[\"figma\",\"design\",\"ui-development\",\"code-generation\",\"curso\
+  r-integration\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubSta\
+  rs\":4461,\"downloadCount\":7887,\"createdAt\":\"2025-02-17T22:27:13.107046Z\
+  \",\"updatedAt\":\"2025-02-17T22:27:13.107046Z\"},{\"mcpId\":\"github.com/mod\
+  elcontextprotocol/servers/tree/main/src/sentry\",\"githubUrl\":\"https://gith\
+  ub.com/modelcontextprotocol/servers/tree/main/src/sentry\",\"name\":\"Sentry\
+  \",\"author\":\"modelcontextprotocol\",\"description\":\"Retrieves and
+  analyzes error reports, stacktraces, and debugging information from Sentry.io,
+  enabling AI assistants to inspect and understand application
+  issues.\",\"codiconIcon\":\"bug\",\"logoUrl\":\"https://storage.googleapis.co\
+  m/cline_public_images/sentry.png\",\"category\":\"monitoring\",\"tags\":[\"er\
+  ror-tracking\",\"debugging\",\"stacktraces\",\"issue-monitoring\",\"applicati\
+  on-monitoring\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\
+  \":33251,\"downloadCount\":6016,\"createdAt\":\"2025-02-19T02:22:38.723905Z\",\
+  \"updatedAt\":\"2025-02-19T02:22:38.723905Z\"},{\"mcpId\":\"github.com/modelc\
+  ontextprotocol/servers/tree/main/src/memory\",\"githubUrl\":\"https://github.\
+  com/modelcontextprotocol/servers/tree/main/src/memory\",\"name\":\"Knowledge
+  Graph Memory\",\"author\":\"modelcontextprotocol\",\"description\":\"A
+  persistent memory system using a local knowledge graph that enables AI
+  assistants to remember information about users across conversations through
+  entities, relations, and
+  observations.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.go\
+  ogleapis.com/cline_public_images/knowledge-graph-memory.png\",\"category\":\"\
+  knowledge-memory\",\"tags\":[\"knowledge-graph\",\"persistent-memory\",\"enti\
+  ty-management\",\"graph-database\",\"memory-storage\"],\"requiresApiKey\":fal\
+  se,\"isRecommended\":true,\"githubStars\":32365,\"downloadCount\":5416,\"crea\
+  tedAt\":\"2025-02-17T22:22:24.982087Z\",\"updatedAt\":\"2025-02-17T22:22:24.9\
+  82087Z\"},{\"mcpId\":\"github.com/modelcontextprotocol/servers/tree/main/src/\
+  sqlite\",\"githubUrl\":\"https://github.com/modelcontextprotocol/servers/tree\
+  /main/src/sqlite\",\"name\":\"SQLite\",\"author\":\"modelcontextprotocol\",\"\
+  description\":\"Provides database interaction and business intelligence
+  capabilities through SQLite, enabling SQL queries, data analysis, and
+  automated business insight
+  generation.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.goog\
+  leapis.com/cline_public_images/sqlite.png\",\"category\":\"databases\",\"tags\
+  \":[\"sql\",\"data-analysis\",\"business-intelligence\",\"database-management\
+  \",\"sqlite\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\
+  \":32574,\"downloadCount\":5354,\"createdAt\":\"2025-02-18T05:45:28.005191Z\",\
+  \"updatedAt\":\"2025-02-18T05:45:28.005191Z\"},{\"mcpId\":\"github.com/zcacer\
+  es/markdownify-mcp\",\"githubUrl\":\"https://github.com/zcaceres/markdownify-\
+  mcp\",\"name\":\"Markdownify\",\"author\":\"zcaceres\",\"description\":\"Conv\
+  erts various file types and web content (PDFs, images, audio, Office
+  documents, web pages) into standardized Markdown format for easy reading and
+  sharing.\",\"codiconIcon\":\"markdown\",\"logoUrl\":\"https://storage.googlea\
+  pis.com/cline_public_images/markdownify.png\",\"category\":\"file-systems\",\
+  \"tags\":[\"file-conversion\",\"markdown\",\"document-processing\",\"content-\
+  transformation\",\"format-conversion\"],\"requiresApiKey\":false,\"isRecommen\
+  ded\":false,\"githubStars\":1248,\"downloadCount\":4900,\"createdAt\":\"2025-\
+  02-19T00:55:54.241944Z\",\"updatedAt\":\"2025-02-19T00:55:54.241944Z\"},{\"mc\
+  pId\":\"github.com/tavily-ai/tavily-mcp\",\"githubUrl\":\"https://github.com/\
+  tavily-ai/tavily-mcp\",\"name\":\"Tavily\",\"author\":\"tavily-ai\",\"descrip\
+  tion\":\"Enables real-time web search and data extraction capabilities through
+  Tavily's API, providing AI assistants with filtered search results and
+  intelligent content extraction from web
+  pages.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.googleapis.\
+  com/cline_public_images/tavily.jpg\",\"category\":\"search\",\"tags\":[\"web-\
+  search\",\"data-extraction\",\"real-time-information\",\"content-filtering\",\
+  \"news-search\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\
+  \":232,\"downloadCount\":4639,\"createdAt\":\"2025-02-17T22:46:47.267489Z\",\
+  \"updatedAt\":\"2025-02-17T22:46:47.267489Z\"},{\"mcpId\":\"github.com/smithe\
+  ry-ai/mcp-obsidian\",\"githubUrl\":\"https://github.com/smithery-ai/mcp-obsid\
+  ian\",\"name\":\"Obsidian\",\"author\":\"smithery-ai\",\"description\":\"Enab\
+  les reading and searching of Markdown notes directories (like Obsidian
+  vaults), allowing AI assistants to access and query local knowledge
+  bases.\",\"codiconIcon\":\"notebook\",\"logoUrl\":\"https://storage.googleapi\
+  s.com/cline_public_images/obsidian.png\",\"category\":\"note-taking\",\"tags\
+  \":[\"markdown\",\"knowledge-base\",\"notes\",\"search\",\"obsidian\"],\"requ\
+  iresApiKey\":false,\"isRecommended\":false,\"githubStars\":615,\"downloadCount\
+  \":4186,\"createdAt\":\"2025-02-17T22:22:13.239338Z\",\"updatedAt\":\"2025-02\
+  -17T22:22:13.239338Z\"},{\"mcpId\":\"github.com/Garoth/echo-mcp\",\"githubUrl\
+  \":\"https://github.com/Garoth/echo-mcp\",\"name\":\"Echo\",\"author\":\"Garo\
+  th\",\"description\":\"A simple testing utility that echoes back any message
+  it receives, useful for validating MCP functionality and
+  connections.\",\"codiconIcon\":\"reply\",\"logoUrl\":\"https://storage.google\
+  apis.com/cline_public_images/echo.png\",\"category\":\"developer-tools\",\"ta\
+  gs\":[\"testing\",\"debugging\",\"validation\",\"echo\",\"development\"],\"re\
+  quiresApiKey\":false,\"isRecommended\":false,\"githubStars\":8,\"downloadCount\
+  \":3912,\"createdAt\":\"2025-03-18T05:52:43.105423Z\",\"updatedAt\":\"2025-03\
+  -18T05:52:43.105423Z\"},{\"mcpId\":\"github.com/NightTrek/Software-planning-m\
+  cp\",\"githubUrl\":\"https://github.com/NightTrek/Software-planning-mcp\",\"n\
+  ame\":\"Software
+  Planning\",\"author\":\"NightTrek\",\"description\":\"Interactive tool for
+  breaking down software projects into manageable tasks, tracking implementation
+  progress, and maintaining detailed development plans with complexity scoring
+  and code
+  examples.\",\"codiconIcon\":\"project\",\"logoUrl\":\"https://storage.googlea\
+  pis.com/cline_public_images/software-planning.png\",\"category\":\"developer-\
+  tools\",\"tags\":[\"project-planning\",\"task-management\",\"software-develop\
+  ment\",\"todo-tracking\",\"documentation\"],\"requiresApiKey\":false,\"isReco\
+  mmended\":false,\"githubStars\":143,\"downloadCount\":3718,\"createdAt\":\"20\
+  25-02-18T23:03:50.971515Z\",\"updatedAt\":\"2025-02-18T23:03:50.971515Z\"},{\
+  \"mcpId\":\"github.com/modelcontextprotocol/servers/tree/main/src/postgres\",\
+  \"githubUrl\":\"https://github.com/modelcontextprotocol/servers/tree/main/src\
+  /postgres\",\"name\":\"PostgreSQL
+  Reader\",\"author\":\"modelcontextprotocol\",\"description\":\"Provides
+  read-only access to PostgreSQL databases, allowing LLMs to inspect database
+  schemas and execute read-only queries within protected
+  transactions.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.go\
+  ogleapis.com/cline_public_images/postgresql-reader.png\",\"category\":\"datab\
+  ases\",\"tags\":[\"postgresql\",\"database-queries\",\"schema-inspection\",\"\
+  read-only\",\"sql\"],\"requiresApiKey\":false,\"isRecommended\":true,\"github\
+  Stars\":32439,\"downloadCount\":3573,\"createdAt\":\"2025-02-17T22:23:06.6852\
+  98Z\",\"updatedAt\":\"2025-02-17T22:23:06.685298Z\"},{\"mcpId\":\"github.com/\
+  pashpashpash/mcp-webresearch\",\"githubUrl\":\"https://github.com/pashpashpas\
+  h/mcp-webresearch\",\"name\":\"Web
+  Research\",\"author\":\"pashpashpash\",\"description\":\"Enables comprehensive
+  web research with Google search integration, webpage content extraction,
+  session tracking, and screenshot capabilities for real-time information
+  gathering.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.googlea\
+  pis.com/cline_public_images/web-research.png\",\"category\":\"search\",\"tags\
+  \":[\"web-research\",\"google-search\",\"content-extraction\",\"screenshots\",\
+  \"session-tracking\"],\"requiresApiKey\":false,\"isRecommended\":false,\"gith\
+  ubStars\":12,\"downloadCount\":3197,\"createdAt\":\"2025-02-18T23:05:09.40985\
+  1Z\",\"updatedAt\":\"2025-02-18T23:05:09.409851Z\"},{\"mcpId\":\"github.com/N\
+  ightTrek/Ollama-mcp\",\"githubUrl\":\"https://github.com/NightTrek/Ollama-mcp\
+  \",\"name\":\"Ollama\",\"author\":\"NightTrek\",\"description\":\"Enables
+  seamless integration with Ollama's local LLM capabilities, providing model
+  management, chat completion, and custom model creation with OpenAI-compatible
+  API.\",\"codiconIcon\":\"terminal\",\"logoUrl\":\"https://storage.googleapis.\
+  com/cline_public_images/ollama.png\",\"category\":\"developer-tools\",\"tags\
+  \":[\"llm\",\"model-management\",\"local-ai\",\"chat-completion\",\"ollama-api\
+  \"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":38,\"dow\
+  nloadCount\":3005,\"createdAt\":\"2025-02-18T23:03:57.065833Z\",\"updatedAt\":\
+  \"2025-02-18T23:03:57.065833Z\"},{\"mcpId\":\"github.com/modelcontextprotocol\
+  /servers/tree/main/src/gdrive\",\"githubUrl\":\"https://github.com/modelconte\
+  xtprotocol/servers/tree/main/src/gdrive\",\"name\":\"Google
+  Drive\",\"author\":\"modelcontextprotocol\",\"description\":\"Enables
+  searching, listing, and reading files from Google Drive, with automatic export
+  of Google Workspace files to common formats like Markdown, CSV, and
+  PNG.\",\"codiconIcon\":\"file-directory\",\"logoUrl\":\"https://storage.googl\
+  eapis.com/cline_public_images/google-drive.png\",\"category\":\"cloud-storage\
+  \",\"tags\":[\"google-drive\",\"file-management\",\"document-storage\",\"work\
+  space\",\"file-search\"],\"requiresApiKey\":false,\"isRecommended\":true,\"gi\
+  thubStars\":32673,\"downloadCount\":2986,\"createdAt\":\"2025-02-18T05:45:06.\
+  878261Z\",\"updatedAt\":\"2025-02-18T05:45:06.878261Z\"},{\"mcpId\":\"github.\
+  com/NightTrek/Serper-search-mcp\",\"githubUrl\":\"https://github.com/NightTre\
+  k/Serper-search-mcp\",\"name\":\"Serper
+  Search\",\"author\":\"NightTrek\",\"description\":\"Provides Google search
+  capabilities through Serper API, delivering rich search results including
+  knowledge graphs, organic results, related questions, and customizable search
+  parameters.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.google\
+  apis.com/cline_public_images/serper.jpg\",\"category\":\"search\",\"tags\":[\
+  \"google-search\",\"serper-api\",\"web-search\",\"knowledge-graph\",\"search-\
+  results\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":1\
+  4,\"downloadCount\":2736,\"createdAt\":\"2025-02-18T23:05:46.398856Z\",\"upda\
+  tedAt\":\"2025-02-18T23:05:46.398856Z\"},{\"mcpId\":\"github.com/pashpashpash\
+  /mcp-notion-server\",\"githubUrl\":\"https://github.com/pashpashpash/mcp-noti\
+  on-server\",\"name\":\"Notion\",\"author\":\"pashpashpash\",\"description\":\
+  \"Enables AI assistants to interact with Notion workspaces, providing
+  comprehensive tools for managing pages, databases, blocks, comments, and users
+  through the Notion
+  API.\",\"codiconIcon\":\"note\",\"logoUrl\":\"https://storage.googleapis.com/\
+  cline_public_images/notion.png\",\"category\":\"note-taking\",\"tags\":[\"not\
+  ion\",\"workspace-management\",\"documentation\",\"collaboration\",\"knowledg\
+  e-base\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":10,\
+  \"downloadCount\":2579,\"createdAt\":\"2025-02-18T23:04:22.064534Z\",\"update\
+  dAt\":\"2025-02-18T23:04:22.064534Z\"},{\"mcpId\":\"github.com/Garoth/sleep-m\
+  cp\",\"githubUrl\":\"https://github.com/Garoth/sleep-mcp\",\"name\":\"Sleep\",\
+  \"author\":\"Garoth\",\"description\":\"Provides timing control with
+  configurable delays between operations, useful for rate limiting, API call
+  spacing, and testing eventually consistent
+  systems.\",\"codiconIcon\":\"clock\",\"logoUrl\":\"https://storage.googleapis\
+  .com/cline_public_images/sleep.png\",\"category\":\"developer-tools\",\"tags\
+  \":[\"timing\",\"rate-limiting\",\"delays\",\"testing\",\"automation\"],\"req\
+  uiresApiKey\":false,\"isRecommended\":false,\"githubStars\":7,\"downloadCount\
+  \":2535,\"createdAt\":\"2025-02-23T01:49:49.815207Z\",\"updatedAt\":\"2025-02\
+  -23T01:49:49.815207Z\"},{\"mcpId\":\"github.com/browserbase/mcp-server-browse\
+  rbase/tree/main/stagehand\",\"githubUrl\":\"https://github.com/browserbase/mc\
+  p-server-browserbase/tree/main/stagehand\",\"name\":\"Stagehand\",\"author\":\
+  \"browserbase\",\"description\":\"Provides AI-powered web automation
+  capabilities using a real browser environment, enabling interaction with web
+  pages, action performance, data extraction, and action
+  observation.\",\"codiconIcon\":\"browser\",\"logoUrl\":\"https://storage.goog\
+  leapis.com/cline_public_images/stagehand.png\",\"category\":\"browser-automat\
+  ion\",\"tags\":[\"web-automation\",\"browser-control\",\"data-extraction\",\"\
+  web-interaction\",\"screenshots\"],\"requiresApiKey\":false,\"isRecommended\"\
+  :false,\"githubStars\":660,\"downloadCount\":2521,\"createdAt\":\"2025-03-28T\
+  18:55:55.022866Z\",\"updatedAt\":\"2025-03-28T18:55:55.022866Z\"},{\"mcpId\":\
+  \"github.com/modelcontextprotocol/servers/tree/main/src/gitlab\",\"githubUrl\
+  \":\"https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab\",\
+  \"name\":\"GitLab\",\"author\":\"modelcontextprotocol\",\"description\":\"Ena\
+  bles comprehensive GitLab project management including file operations, issue
+  tracking, merge requests, and repository management through the GitLab
+  API.\",\"codiconIcon\":\"git-merge\",\"logoUrl\":\"https://storage.googleapis\
+  .com/cline_public_images/gitlab.png\",\"category\":\"version-control\",\"tags\
+  \":[\"gitlab\",\"git\",\"repository-management\",\"collaboration\",\"ci-cd\"],\
+  \"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":32448,\"downl\
+  oadCount\":2431,\"createdAt\":\"2025-02-17T22:46:26.88278Z\",\"updatedAt\":\"\
+  2025-02-17T22:46:26.88278Z\"},{\"mcpId\":\"github.com/pashpashpash/mcp-atlass\
+  ian\",\"githubUrl\":\"https://github.com/pashpashpash/mcp-atlassian\",\"name\
+  \":\"Atlassian\",\"author\":\"pashpashpash\",\"description\":\"Integrates with
+  Atlassian Cloud products (Confluence and Jira) to enable searching, accessing,
+  and managing pages, spaces, issues, and projects via their respective
+  APIs.\",\"codiconIcon\":\"organization\",\"logoUrl\":\"https://storage.google\
+  apis.com/cline_public_images/atlassian.png\",\"category\":\"developer-tools\",\
+  \"tags\":[\"atlassian\",\"confluence\",\"jira\",\"project-management\",\"docu\
+  mentation\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\"\
+  :5,\"downloadCount\":2317,\"createdAt\":\"2025-02-18T23:04:29.548307Z\",\"upd\
+  atedAt\":\"2025-02-18T23:04:29.548307Z\"},{\"mcpId\":\"github.com/modelcontex\
+  tprotocol/servers/tree/main/src/redis\",\"githubUrl\":\"https://github.com/mo\
+  delcontextprotocol/servers/tree/main/src/redis\",\"name\":\"Redis\",\"author\
+  \":\"modelcontextprotocol\",\"description\":\"Provides access to Redis
+  key-value stores, enabling operations like setting, getting, deleting, and
+  listing keys with optional expiration time
+  support.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.googlea\
+  pis.com/cline_public_images/redis.png\",\"category\":\"databases\",\"tags\":[\
+  \"redis\",\"key-value-store\",\"caching\",\"data-storage\",\"database-operati\
+  ons\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":32667,\
+  \"downloadCount\":2206,\"createdAt\":\"2025-02-18T05:45:15.150896Z\",\"update\
+  dAt\":\"2025-02-18T05:45:15.150896Z\"},{\"mcpId\":\"github.com/pashpashpash/g\
+  oogle-calendar-mcp\",\"githubUrl\":\"https://github.com/pashpashpash/google-c\
+  alendar-mcp\",\"name\":\"Google
+  Calendar\",\"author\":\"pashpashpash\",\"description\":\"Enables AI assistants
+  to read, create, and manage Google Calendar events, including processing
+  events from screenshots and coordinating schedules across multiple
+  calendars.\",\"codiconIcon\":\"calendar\",\"logoUrl\":\"https://storage.googl\
+  eapis.com/cline_public_images/google-calendar.png\",\"category\":\"calendar-m\
+  anagement\",\"tags\":[\"google-calendar\",\"scheduling\",\"event-management\",\
+  \"calendar-automation\",\"oauth\"],\"requiresApiKey\":false,\"isRecommended\"\
+  :false,\"githubStars\":12,\"downloadCount\":2009,\"createdAt\":\"2025-02-19T0\
+  1:25:47.301582Z\",\"updatedAt\":\"2025-02-19T01:25:47.301582Z\"},{\"mcpId\":\
+  \"github.com/supabase-community/supabase-mcp\",\"githubUrl\":\"https://github\
+  .com/supabase-community/supabase-mcp\",\"name\":\"Supabase\",\"author\":\"sup\
+  abase-community\",\"description\":\"Enables AI assistants to interact with
+  Supabase projects, providing tools for database management, project
+  configuration, migrations, and TypeScript type
+  generation.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.goog\
+  leapis.com/cline_public_images/supabase.png\",\"category\":\"databases\",\"ta\
+  gs\":[\"supabase\",\"postgresql\",\"database-management\",\"migrations\",\"pr\
+  oject-management\"],\"requiresApiKey\":false,\"isRecommended\":false,\"github\
+  Stars\":129,\"downloadCount\":1995,\"createdAt\":\"2025-04-04T16:08:19.129363Z\
+  \",\"updatedAt\":\"2025-04-04T16:08:19.129363Z\"},{\"mcpId\":\"github.com/mod\
+  elcontextprotocol/servers/tree/main/src/google-maps\",\"githubUrl\":\"https:/\
+  /github.com/modelcontextprotocol/servers/tree/main/src/google-maps\",\"name\":\
+  \"Google Maps\",\"author\":\"modelcontextprotocol\",\"description\":\"Provides
+  comprehensive access to Google Maps services including geocoding, place
+  search, directions, distance calculations, and elevation data through the
+  Google Maps
+  API.\",\"codiconIcon\":\"location\",\"logoUrl\":\"https://storage.googleapis.\
+  com/cline_public_images/google-maps.png\",\"category\":\"location-services\",\
+  \"tags\":[\"maps\",\"geocoding\",\"navigation\",\"places-api\",\"location-data\
+  \"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":32558,\"d\
+  ownloadCount\":1941,\"createdAt\":\"2025-02-17T22:46:16.116171Z\",\"updatedAt\
+  \":\"2025-02-17T22:46:16.116171Z\"},{\"mcpId\":\"github.com/browserbase/mcp-s\
+  erver-browserbase\",\"githubUrl\":\"https://github.com/browserbase/mcp-server\
+  -browserbase\",\"name\":\"Browserbase\",\"author\":\"browserbase\",\"descript\
+  ion\":\"Cloud browser automation server enabling LLMs to interact with web
+  pages, take screenshots, extract data, and execute JavaScript using
+  Browserbase and
+  Puppeteer.\",\"codiconIcon\":\"browser\",\"logoUrl\":\"https://storage.google\
+  apis.com/cline_public_images/browserbase.png\",\"category\":\"browser-automat\
+  ion\",\"tags\":[\"web-automation\",\"puppeteer\",\"screenshot-capture\",\"dat\
+  a-extraction\",\"javascript-execution\"],\"requiresApiKey\":false,\"isRecomme\
+  nded\":true,\"githubStars\":723,\"downloadCount\":1747,\"createdAt\":\"2025-0\
+  2-18T06:27:48.955864Z\",\"updatedAt\":\"2025-02-18T06:27:48.955864Z\"},{\"mcp\
+  Id\":\"github.com/modelcontextprotocol/servers/tree/main/src/aws-kb-retrieval\
+  -server\",\"githubUrl\":\"https://github.com/modelcontextprotocol/servers/tre\
+  e/main/src/aws-kb-retrieval-server\",\"name\":\"AWS Knowledge
+  Base\",\"author\":\"modelcontextprotocol\",\"description\":\"Retrieves
+  information from AWS Knowledge Base using Bedrock Agent Runtime, supporting
+  RAG-based queries with customizable result
+  counts.\",\"codiconIcon\":\"library\",\"logoUrl\":\"https://storage.googleapi\
+  s.com/cline_public_images/aws-knowledge-base.png\",\"category\":\"knowledge-m\
+  emory\",\"tags\":[\"aws\",\"bedrock\",\"rag\",\"knowledge-retrieval\",\"search\
+  \"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":32919,\"d\
+  ownloadCount\":1744,\"createdAt\":\"2025-02-18T05:44:51.508867Z\",\"updatedAt\
+  \":\"2025-02-18T05:44:51.508867Z\"},{\"mcpId\":\"github.com/Garoth/dalle-mcp\
+  \",\"githubUrl\":\"https://github.com/Garoth/dalle-mcp\",\"name\":\"DALL-E\",\
+  \"author\":\"Garoth\",\"description\":\"Generate, edit, and create variations
+  of images using OpenAI's DALL-E 2 and DALL-E 3 APIs, with support for
+  customizable parameters and local image
+  saving.\",\"codiconIcon\":\"image\",\"logoUrl\":\"https://storage.googleapis.\
+  com/cline_public_images/dall-e.png\",\"category\":\"image-video-processing\",\
+  \"tags\":[\"image-generation\",\"dall-e\",\"ai-art\",\"image-editing\",\"open\
+  ai\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":2,\"do\
+  wnloadCount\":1725,\"createdAt\":\"2025-03-18T05:52:01.005466Z\",\"updatedAt\
+  \":\"2025-03-18T05:52:01.005466Z\"},{\"mcpId\":\"github.com/justinpbarnett/un\
+  ity-mcp\",\"githubUrl\":\"https://github.com/justinpbarnett/unity-mcp\",\"name\
+  \":\"Unity Bridge\",\"author\":\"justinpbarnett\",\"description\":\"Enables
+  bidirectional communication between Unity and LLMs, allowing programmatic
+  control of Unity Editor features including asset management, scene control,
+  and editor
+  automation.\",\"codiconIcon\":\"game\",\"logoUrl\":\"https://storage.googleap\
+  is.com/cline_public_images/unity-bridge.png\",\"category\":\"developer-tools\
+  \",\"tags\":[\"unity\",\"game-development\",\"asset-management\",\"automation\
+  \",\"editor-tools\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githu\
+  bStars\":1258,\"downloadCount\":1633,\"createdAt\":\"2025-03-27T20:06:42.1513\
+  32Z\",\"updatedAt\":\"2025-03-27T20:06:42.151332Z\"},{\"mcpId\":\"github.com/\
+  Garoth/wolframalpha-llm-mcp\",\"githubUrl\":\"https://github.com/Garoth/wolfr\
+  amalpha-llm-mcp\",\"name\":\"WolframAlpha\",\"author\":\"Garoth\",\"descripti\
+  on\":\"Provides access to WolframAlpha's LLM API for answering complex
+  mathematical, scientific, and general knowledge questions with structured
+  responses.\",\"codiconIcon\":\"symbol-numeric\",\"logoUrl\":\"https://storage\
+  .googleapis.com/cline_public_images/wolframalpha.png\",\"category\":\"researc\
+  h-data\",\"tags\":[\"mathematics\",\"scientific-computing\",\"knowledge-base\
+  \",\"wolfram-api\",\"computation\"],\"requiresApiKey\":false,\"isRecommended\
+  \":false,\"githubStars\":27,\"downloadCount\":1631,\"createdAt\":\"2025-02-20\
+  T23:51:50.467973Z\",\"updatedAt\":\"2025-02-20T23:51:50.467973Z\"},{\"mcpId\":\
+  \"github.com/pashpashpash/iterm-mcp\",\"githubUrl\":\"https://github.com/pash\
+  pashpash/iterm-mcp\",\"name\":\"iTerm\",\"author\":\"pashpashpash\",\"descrip\
+  tion\":\"Provides direct access to iTerm terminal sessions, enabling command
+  execution, REPL interaction, and terminal output inspection with efficient
+  token usage and control character
+  support.\",\"codiconIcon\":\"terminal\",\"logoUrl\":\"https://storage.googlea\
+  pis.com/cline_public_images/iterm.png\",\"category\":\"os-automation\",\"tags\
+  \":[\"terminal\",\"iterm\",\"command-execution\",\"repl\",\"automation\"],\"r\
+  equiresApiKey\":false,\"isRecommended\":false,\"githubStars\":8,\"downloadCou\
+  nt\":1589,\"createdAt\":\"2025-02-18T23:04:41.146991Z\",\"updatedAt\":\"2025-\
+  02-18T23:04:41.146991Z\"},{\"mcpId\":\"github.com/pashpashpash/mcp-taskmanager\
+  \",\"githubUrl\":\"https://github.com/pashpashpash/mcp-taskmanager\",\"name\":\
+  \"Task Manager\",\"author\":\"pashpashpash\",\"description\":\"A queue-based
+  task management system that enables planning, execution, and tracking of tasks
+  with support for task lists, execution plans, and completion
+  feedback.\",\"codiconIcon\":\"tasklist\",\"logoUrl\":\"https://storage.google\
+  apis.com/cline_public_images/task-manager.png\",\"category\":\"developer-tools\
+  \",\"tags\":[\"task-management\",\"queue-system\",\"workflow\",\"task-tracking\
+  \",\"automation\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubS\
+  tars\":15,\"downloadCount\":1567,\"createdAt\":\"2025-02-18T23:06:16.564387Z\
+  \",\"updatedAt\":\"2025-02-18T23:06:16.564387Z\"},{\"mcpId\":\"github.com/hyp\
+  erbrowserai/mcp\",\"githubUrl\":\"https://github.com/hyperbrowserai/mcp\",\"n\
+  ame\":\"Hyperbrowser\",\"author\":\"hyperbrowserai\",\"description\":\"Advanc\
+  ed web automation server providing tools for web scraping, structured data
+  extraction, and browser automation with support for multiple AI agents
+  including OpenAI's CUA and Claude's Computer
+  Use.\",\"codiconIcon\":\"browser\",\"logoUrl\":\"https://storage.googleapis.c\
+  om/cline_public_images/hyperbrowser.png\",\"category\":\"browser-automation\",\
+  \"tags\":[\"web-scraping\",\"browser-automation\",\"data-extraction\",\"web-c\
+  rawling\",\"search\"],\"requiresApiKey\":false,\"isRecommended\":false,\"gith\
+  ubStars\":193,\"downloadCount\":1531,\"createdAt\":\"2025-04-02T02:03:55.3983\
+  24Z\",\"updatedAt\":\"2025-04-02T02:03:55.398324Z\"},{\"mcpId\":\"github.com/\
+  graphlit/graphlit-mcp-server\",\"githubUrl\":\"https://github.com/graphlit/gr\
+  aphlit-mcp-server\",\"name\":\"Graphlit\",\"author\":\"graphlit\",\"descripti\
+  on\":\"Create a personalized knowledge base from tools like Linear, GitHub,
+  Jira, and Discord, and empower AI Agents to retrieve associated content with
+  built-in reranking for enhanced
+  relevance.\",\"codiconIcon\":\"library\",\"logoUrl\":\"https://storage.google\
+  apis.com/cline_public_images/graphlit.png\",\"category\":\"knowledge-memory\",\
+  \"tags\":[\"content-management\",\"data-ingestion\",\"document-processing\",\
+  \"search-retrieval\",\"multi-platform\"],\"requiresApiKey\":false,\"isRecomme\
+  nded\":false,\"githubStars\":152,\"downloadCount\":1400,\"createdAt\":\"2025-\
+  03-03T19:20:12.867689Z\",\"updatedAt\":\"2025-03-03T19:20:12.867689Z\"},{\"mc\
+  pId\":\"github.com/codegen-sh/codegen-sdk/tree/develop/codegen-examples/examp\
+  les/codegen-mcp-server\",\"githubUrl\":\"https://github.com/codegen-sh/codege\
+  n-sdk/tree/develop/codegen-examples/examples/codegen-mcp-server\",\"name\":\"\
+  Codegen\",\"author\":\"codegen-sh\",\"description\":\"Enables parsing
+  codebases and executing codemods through standardized model inference,
+  supporting various LLM providers via integration with the Codegen
+  SDK.\",\"codiconIcon\":\"code\",\"logoUrl\":\"https://storage.googleapis.com/\
+  cline_public_images/codegen.png\",\"category\":\"developer-tools\",\"tags\":[\
+  \"code-generation\",\"codemod\",\"code-parsing\",\"sdk-integration\",\"llm-to\
+  ols\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":427,\"\
+  downloadCount\":1319,\"createdAt\":\"2025-02-18T23:04:15.445062Z\",\"updatedAt\
+  \":\"2025-02-18T23:04:15.445062Z\"},{\"mcpId\":\"github.com/lharries/whatsapp\
+  -mcp\",\"githubUrl\":\"https://github.com/lharries/whatsapp-mcp\",\"name\":\"\
+  WhatsApp\",\"author\":\"lharries\",\"description\":\"Enables searching
+  personal WhatsApp messages, managing contacts, and sending messages to
+  individuals or groups through WhatsApp Web's multidevice API with local
+  message
+  storage.\",\"codiconIcon\":\"comment\",\"logoUrl\":\"https://storage.googleap\
+  is.com/cline_public_images/whatsapp.png\",\"category\":\"communication\",\"ta\
+  gs\":[\"messaging\",\"chat-history\",\"contacts\",\"whatsapp\",\"message-sear\
+  ch\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":2905,\
+  \"downloadCount\":1319,\"createdAt\":\"2025-03-31T18:44:25.818276Z\",\"update\
+  dAt\":\"2025-03-31T18:44:25.818276Z\"},{\"mcpId\":\"github.com/anaisbetts/mcp\
+  -youtube\",\"githubUrl\":\"https://github.com/anaisbetts/mcp-youtube\",\"name\
+  \":\"YouTube Subtitles\",\"author\":\"anaisbetts\",\"description\":\"Downloads
+  and extracts YouTube video subtitles using yt-dlp, enabling AI assistants to
+  analyze and summarize video content through subtitle
+  text.\",\"codiconIcon\":\"play-circle\",\"logoUrl\":\"https://storage.googlea\
+  pis.com/cline_public_images/youtube-subtitles.png\",\"category\":\"entertainm\
+  ent-media\",\"tags\":[\"youtube\",\"subtitles\",\"video-analysis\",\"content-\
+  summarization\",\"yt-dlp\"],\"requiresApiKey\":false,\"isRecommended\":true,\
+  \"githubStars\":280,\"downloadCount\":1270,\"createdAt\":\"2025-02-17T22:27:3\
+  7.384353Z\",\"updatedAt\":\"2025-02-17T22:27:37.384353Z\"},{\"mcpId\":\"githu\
+  b.com/modelcontextprotocol/servers/tree/main/src/slack\",\"githubUrl\":\"http\
+  s://github.com/modelcontextprotocol/servers/tree/main/src/slack\",\"name\":\"\
+  Slack\",\"author\":\"modelcontextprotocol\",\"description\":\"Enables AI
+  assistants to interact with Slack workspaces, providing tools for messaging,
+  channel management, reactions, user profiles, and thread
+  management.\",\"codiconIcon\":\"comment-discussion\",\"logoUrl\":\"https://st\
+  orage.googleapis.com/cline_public_images/slack.png\",\"category\":\"communica\
+  tion\",\"tags\":[\"slack\",\"messaging\",\"team-collaboration\",\"chat\",\"wo\
+  rkspace-management\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githu\
+  bStars\":32504,\"downloadCount\":1208,\"createdAt\":\"2025-02-17T22:23:00.036\
+  614Z\",\"updatedAt\":\"2025-02-17T22:23:00.036614Z\"},{\"mcpId\":\"github.com\
+  /ykhli/mcp-send-email\",\"githubUrl\":\"https://github.com/ykhli/mcp-send-ema\
+  il\",\"name\":\"Email Sender\",\"author\":\"ykhli\",\"description\":\"Sends
+  emails directly through Resend's API, enabling AI assistants to compose and
+  send emails without manual copying and
+  pasting.\",\"codiconIcon\":\"mail\",\"logoUrl\":\"https://storage.googleapis.\
+  com/cline_public_images/resend.png\",\"category\":\"communication\",\"tags\":[\
+  \"email\",\"resend-api\",\"messaging\",\"automation\",\"communication\"],\"re\
+  quiresApiKey\":false,\"isRecommended\":false,\"githubStars\":285,\"downloadCo\
+  unt\":1185,\"createdAt\":\"2025-03-03T11:05:30.27228Z\",\"updatedAt\":\"2025-\
+  03-03T11:05:30.27228Z\"},{\"mcpId\":\"github.com/Dhravya/apple-mcp\",\"github\
+  Url\":\"https://github.com/Dhravya/apple-mcp\",\"name\":\"Apple Native
+  Tools\",\"author\":\"Dhravya\",\"description\":\"Comprehensive suite of macOS
+  native tools enabling AI assistants to interact with Messages, Notes,
+  Contacts, Email, Reminders, Calendar, Maps, and web search
+  functionality.\",\"codiconIcon\":\"apple\",\"logoUrl\":\"https://storage.goog\
+  leapis.com/cline_public_images/apple-native-tools.png\",\"category\":\"os-aut\
+  omation\",\"tags\":[\"macos\",\"automation\",\"productivity\",\"apple-services\
+  \",\"system-integration\"],\"requiresApiKey\":false,\"isRecommended\":false,\
+  \"githubStars\":1140,\"downloadCount\":1036,\"createdAt\":\"2025-04-05T08:51:\
+  23.021478Z\",\"updatedAt\":\"2025-04-05T08:51:23.021478Z\"},{\"mcpId\":\"gith\
+  ub.com/canvrno/ProxmoxMCP\",\"githubUrl\":\"https://github.com/canvrno/Proxmo\
+  xMCP\",\"name\":\"Proxmox Manager\",\"author\":\"canvrno\",\"description\":\"A
+  server for managing Proxmox hypervisors, providing tools to control nodes,
+  VMs, containers, storage, and execute console commands in virtual
+  machines.\",\"codiconIcon\":\"server\",\"logoUrl\":\"https://storage.googleap\
+  is.com/cline_public_images/proxmox-manager.png\",\"category\":\"virtualization\
+  \",\"tags\":[\"proxmox\",\"virtualization\",\"vm-management\",\"server-manage\
+  ment\",\"infrastructure\"],\"requiresApiKey\":false,\"isRecommended\":false,\
+  \"githubStars\":73,\"downloadCount\":1010,\"createdAt\":\"2025-02-19T07:28:09\
+  .637633Z\",\"updatedAt\":\"2025-02-19T07:28:09.637633Z\"},{\"mcpId\":\"github\
+  .com/cloudflare/mcp-server-cloudflare\",\"githubUrl\":\"https://github.com/cl\
+  oudflare/mcp-server-cloudflare\",\"name\":\"Cloudflare\",\"author\":\"cloudfl\
+  are\",\"description\":\"Manages Cloudflare resources including Workers, KV
+  stores, R2 storage, D1 databases, and analytics through natural language
+  interactions.\",\"codiconIcon\":\"cloud\",\"logoUrl\":\"https://storage.googl\
+  eapis.com/cline_public_images/cloudflare.png\",\"category\":\"cloud-platforms\
+  \",\"tags\":[\"cloudflare\",\"serverless\",\"edge-computing\",\"cloud-storage\
+  \",\"database-management\"],\"requiresApiKey\":false,\"isRecommended\":true,\
+  \"githubStars\":1251,\"downloadCount\":988,\"createdAt\":\"2025-02-17T22:22:4\
+  7.133329Z\",\"updatedAt\":\"2025-02-17T22:22:47.133329Z\"},{\"mcpId\":\"githu\
+  b.com/stripe/agent-toolkit\",\"githubUrl\":\"https://github.com/stripe/agent-\
+  toolkit\",\"name\":\"Stripe\",\"author\":\"stripe\",\"description\":\"Enables
+  AI agents to interact with Stripe APIs, supporting operations like customer
+  management, payment processing, product creation, and invoice handling through
+  function
+  calling.\",\"codiconIcon\":\"credit-card\",\"logoUrl\":\"https://storage.goog\
+  leapis.com/cline_public_images/stripe.png\",\"category\":\"finance\",\"tags\"\
+  :[\"payments\",\"billing\",\"invoicing\",\"stripe-api\",\"financial-services\
+  \"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":620,\"dow\
+  nloadCount\":939,\"createdAt\":\"2025-02-18T06:28:40.359883Z\",\"updatedAt\":\
+  \"2025-02-18T06:28:40.359883Z\"},{\"mcpId\":\"github.com/awslabs/mcp/tree/mai\
+  n/src/aws-documentation-mcp-server\",\"githubUrl\":\"https://github.com/awsla\
+  bs/mcp/tree/main/src/aws-documentation-mcp-server\",\"name\":\"AWS
+  Documentation\",\"author\":\"awslabs\",\"description\":\"Access and search AWS
+  documentation, fetch pages in markdown format, and get content recommendations
+  for AWS documentation
+  pages.\",\"codiconIcon\":\"book\",\"logoUrl\":\"https://storage.googleapis.co\
+  m/cline_public_images/aws.png\",\"category\":\"knowledge-memory\",\"tags\":[\
+  \"aws\",\"documentation\",\"search\",\"recommendations\",\"technical-docs\"],\
+  \"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":949,\"downlo\
+  adCount\":926,\"createdAt\":\"2025-04-04T01:26:41.014628Z\",\"updatedAt\":\"2\
+  025-04-04T01:26:41.014628Z\"},{\"mcpId\":\"github.com/base/base-mcp\",\"githu\
+  bUrl\":\"https://github.com/base/base-mcp\",\"name\":\"Base\",\"author\":\"ba\
+  se\",\"description\":\"Enables blockchain interactions with Base and Coinbase
+  APIs, providing tools for wallet management, fund transfers, smart contract
+  deployment, and testnet
+  operations.\",\"codiconIcon\":\"server-process\",\"logoUrl\":\"https://storag\
+  e.googleapis.com/cline_public_images/base.png\",\"category\":\"finance\",\"ta\
+  gs\":[\"blockchain\",\"coinbase\",\"web3\",\"smart-contracts\",\"crypto-wallet\
+  \"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":160,\"do\
+  wnloadCount\":875,\"createdAt\":\"2025-03-09T05:49:30.085654Z\",\"updatedAt\":\
+  \"2025-03-09T05:49:30.085654Z\"},{\"mcpId\":\"github.com/pashpashpash/mcp-spo\
+  tify\",\"githubUrl\":\"https://github.com/pashpashpash/mcp-spotify\",\"name\":\
+  \"Spotify\",\"author\":\"pashpashpash\",\"description\":\"Enables interaction
+  with Spotify's music catalog, including search, artist information, playlist
+  management, and audiobook access through the Spotify Web
+  API.\",\"codiconIcon\":\"music\",\"logoUrl\":\"https://storage.googleapis.com\
+  /cline_public_images/spotify.png\",\"category\":\"entertainment-media\",\"tags\
+  \":[\"music\",\"spotify-api\",\"playlist-management\",\"audiobooks\",\"stream\
+  ing\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":3,\"d\
+  ownloadCount\":833,\"createdAt\":\"2025-02-19T01:25:58.60191Z\",\"updatedAt\":\
+  \"2025-02-19T01:25:58.60191Z\"},{\"mcpId\":\"github.com/neo4j-contrib/mcp-neo\
+  4j\",\"githubUrl\":\"https://github.com/neo4j-contrib/mcp-neo4j\",\"name\":\"\
+  Neo4j\",\"author\":\"neo4j-contrib\",\"description\":\"Enables natural
+  language interactions with Neo4j graph databases, supporting Cypher query
+  generation and knowledge graph memory management for
+  LLMs.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.googleapis\
+  .com/cline_public_images/Neo4j.png\",\"category\":\"databases\",\"tags\":[\"g\
+  raph-database\",\"cypher\",\"knowledge-graph\",\"memory-storage\",\"neo4j-aura\
+  \"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":185,\"do\
+  wnloadCount\":816,\"createdAt\":\"2025-02-18T06:28:19.461292Z\",\"updatedAt\":\
+  \"2025-02-18T06:28:19.461292Z\"},{\"mcpId\":\"github.com/domdomegg/airtable-m\
+  cp-server\",\"githubUrl\":\"https://github.com/domdomegg/airtable-mcp-server\
+  \",\"name\":\"Airtable\",\"author\":\"domdomegg\",\"description\":\"Provides
+  read and write access to Airtable databases, enabling schema inspection,
+  record management, and table operations through comprehensive API
+  integration.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.goo\
+  gleapis.com/cline_public_images/airtable.png\",\"category\":\"databases\",\"t\
+  ags\":[\"airtable\",\"database-management\",\"records\",\"schemas\",\"crud\"],\
+  \"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":79,\"downloa\
+  dCount\":810,\"createdAt\":\"2025-02-19T02:22:31.761899Z\",\"updatedAt\":\"20\
+  25-02-19T02:22:31.761899Z\"},{\"mcpId\":\"github.com/sendaifun/solana-mcp\",\
+  \"githubUrl\":\"https://github.com/sendaifun/solana-mcp\",\"name\":\"Solana
+  Agent Kit\",\"author\":\"sendaifun\",\"description\":\"Provides tools for
+  interacting with the Solana blockchain, enabling operations like token
+  management, NFT minting, trading, and wallet interactions through a
+  standardized
+  interface.\",\"codiconIcon\":\"link\",\"logoUrl\":\"https://storage.googleapi\
+  s.com/cline_public_images/sendai.jpg\",\"category\":\"finance\",\"tags\":[\"b\
+  lockchain\",\"solana\",\"cryptocurrency\",\"web3\",\"tokens\"],\"requiresApiK\
+  ey\":false,\"isRecommended\":false,\"githubStars\":43,\"downloadCount\":751,\
+  \"createdAt\":\"2025-03-10T20:11:10.747447Z\",\"updatedAt\":\"2025-03-10T20:1\
+  1:10.747447Z\"},{\"mcpId\":\"github.com/pashpashpash/mcp-discord\",\"githubUrl\
+  \":\"https://github.com/pashpashpash/mcp-discord\",\"name\":\"Discord\",\"aut\
+  hor\":\"pashpashpash\",\"description\":\"Provides comprehensive Discord server
+  management capabilities including message handling, channel management, role
+  administration, and webhook
+  integration.\",\"codiconIcon\":\"comment-discussion\",\"logoUrl\":\"https://s\
+  torage.googleapis.com/cline_public_images/discord.png\",\"category\":\"commun\
+  ication\",\"tags\":[\"discord\",\"chat\",\"server-management\",\"webhooks\",\
+  \"messaging\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\
+  \":7,\"downloadCount\":750,\"createdAt\":\"2025-02-19T01:25:52.857709Z\",\"up\
+  datedAt\":\"2025-02-19T01:25:52.857709Z\"},{\"mcpId\":\"github.com/e2b-dev/mc\
+  p-server\",\"githubUrl\":\"https://github.com/e2b-dev/mcp-server\",\"name\":\
+  \"Code Interpreter\",\"author\":\"e2b-dev\",\"description\":\"Adds secure code
+  execution capabilities to Claude Desktop using E2B Sandbox, supporting both
+  JavaScript and Python
+  environments.\",\"codiconIcon\":\"terminal\",\"logoUrl\":\"https://storage.go\
+  ogleapis.com/cline_public_images/e2b.jpeg\",\"category\":\"developer-tools\",\
+  \"tags\":[\"code-execution\",\"sandbox\",\"javascript\",\"python\",\"claude-i\
+  ntegration\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\"\
+  :192,\"downloadCount\":738,\"createdAt\":\"2025-02-18T05:45:58.533295Z\",\"up\
+  datedAt\":\"2025-02-18T05:45:58.533295Z\"},{\"mcpId\":\"github.com/pashpashpa\
+  sh/shopify-mcp-server\",\"githubUrl\":\"https://github.com/pashpashpash/shopi\
+  fy-mcp-server\",\"name\":\"Shopify\",\"author\":\"pashpashpash\",\"description\
+  \":\"Integrates with Shopify's GraphQL Admin API to manage store data,
+  including products, customers, orders, collections, discounts, and
+  webhooks.\",\"codiconIcon\":\"cart\",\"logoUrl\":\"https://storage.googleapis\
+  .com/cline_public_images/shopify.png\",\"category\":\"ecommerce-retail\",\"ta\
+  gs\":[\"shopify\",\"ecommerce\",\"store-management\",\"graphql\",\"retail\"],\
+  \"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":16,\"downloa\
+  dCount\":713,\"createdAt\":\"2025-02-19T01:26:05.505451Z\",\"updatedAt\":\"20\
+  25-02-19T01:26:05.505451Z\"},{\"mcpId\":\"github.com/exa-labs/exa-mcp-server\
+  \",\"githubUrl\":\"https://github.com/exa-labs/exa-mcp-server\",\"name\":\"Exa
+  Search\",\"author\":\"exa-labs\",\"description\":\"Enables AI assistants to
+  perform real-time web searches using Exa's AI Search API, providing structured
+  results with titles, URLs, and content
+  snippets.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.googleap\
+  is.com/cline_public_images/exa.jpg\",\"category\":\"search\",\"tags\":[\"web-\
+  search\",\"exa-api\",\"real-time-data\",\"content-discovery\",\"information-r\
+  etrieval\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":5\
+  07,\"downloadCount\":683,\"createdAt\":\"2025-02-17T22:46:53.872366Z\",\"upda\
+  tedAt\":\"2025-02-17T22:46:53.872366Z\"},{\"mcpId\":\"github.com/qdrant/mcp-s\
+  erver-qdrant\",\"githubUrl\":\"https://github.com/qdrant/mcp-server-qdrant\",\
+  \"name\":\"Qdrant\",\"author\":\"qdrant\",\"description\":\"A semantic memory
+  layer enabling storage and retrieval of vector-based memories using the Qdrant
+  vector search engine, with support for both cloud and local
+  deployments.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.goo\
+  gleapis.com/cline_public_images/qdrant.png\",\"category\":\"knowledge-memory\
+  \",\"tags\":[\"vector-search\",\"semantic-memory\",\"embeddings\",\"storage\",\
+  \"retrieval\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\
+  \":405,\"downloadCount\":654,\"createdAt\":\"2025-02-18T05:47:07.82849Z\",\"u\
+  pdatedAt\":\"2025-02-18T05:47:07.82849Z\"},{\"mcpId\":\"github.com/Flux159/mc\
+  p-server-kubernetes\",\"githubUrl\":\"https://github.com/Flux159/mcp-server-k\
+  ubernetes\",\"name\":\"Kubernetes\",\"author\":\"Flux159\",\"description\":\"\
+  Connects to and manages Kubernetes clusters, enabling pod, service, and
+  deployment operations through kubectl
+  integration.\",\"codiconIcon\":\"server-environment\",\"logoUrl\":\"https://s\
+  torage.googleapis.com/cline_public_images/kubernetes.png\",\"category\":\"vir\
+  tualization\",\"tags\":[\"kubernetes\",\"containers\",\"cluster-management\",\
+  \"kubectl\",\"deployments\"],\"requiresApiKey\":false,\"isRecommended\":false,\
+  \"githubStars\":316,\"downloadCount\":649,\"createdAt\":\"2025-02-17T22:30:26\
+  .383193Z\",\"updatedAt\":\"2025-02-17T22:30:26.383193Z\"},{\"mcpId\":\"github\
+  .com/cline/linear-mcp\",\"githubUrl\":\"https://github.com/cline/linear-mcp\",\
+  \"name\":\"Linear\",\"author\":\"cline\",\"description\":\"Facilitates project
+  management with the Linear API, enabling issue tracking, project organization,
+  and team management through comprehensive tools for creating, updating, and
+  managing work
+  items.\",\"codiconIcon\":\"project\",\"logoUrl\":\"https://storage.googleapis\
+  .com/cline_public_images/linear.jpg\",\"category\":\"developer-tools\",\"tags\
+  \":[\"project-management\",\"issue-tracking\",\"team-collaboration\",\"linear\
+  -api\",\"workflow\"],\"requiresApiKey\":false,\"isRecommended\":true,\"github\
+  Stars\":2,\"downloadCount\":619,\"createdAt\":\"2025-02-18T06:10:46.800194Z\",\
+  \"updatedAt\":\"2025-02-18T06:10:46.800194Z\"},{\"mcpId\":\"github.com/supaba\
+  se-community/mcp-supabase/tree/HEAD/packages/mcp-server-postgrest\",\"githubU\
+  rl\":\"https://github.com/supabase-community/mcp-supabase/tree/HEAD/packages/\
+  mcp-server-postgrest\",\"name\":\"Postgrest\",\"author\":\"supabase-community\
+  \",\"description\":\"Enables database operations on PostgreSQL through
+  PostgREST, supporting SQL-to-REST conversion and direct API requests for
+  querying and modifying
+  data.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.googleapis\
+  .com/cline_public_images/postgrest.png\",\"category\":\"databases\",\"tags\":[\
+  \"postgresql\",\"postgrest\",\"database-api\",\"sql\",\"supabase\"],\"require\
+  sApiKey\":false,\"isRecommended\":true,\"githubStars\":693,\"downloadCount\":\
+  616,\"createdAt\":\"2025-02-17T22:27:20.529942Z\",\"updatedAt\":\"2025-02-17T\
+  22:27:20.529942Z\"},{\"mcpId\":\"github.com/awslabs/mcp/tree/main/src/core-mc\
+  p-server\",\"githubUrl\":\"https://github.com/awslabs/mcp/tree/main/src/core-\
+  mcp-server\",\"name\":\"Core
+  Server\",\"author\":\"awslabs\",\"description\":\"Manages and coordinates MCP
+  servers, providing automated installation, configuration management, and
+  orchestration of AWS Labs servers with centralized logging and environment
+  control.\",\"codiconIcon\":\"server-environment\",\"logoUrl\":\"https://stora\
+  ge.googleapis.com/cline_public_images/aws.png\",\"category\":\"developer-tools\
+  \",\"tags\":[\"server-management\",\"configuration\",\"aws-integration\",\"au\
+  tomation\",\"orchestration\"],\"requiresApiKey\":false,\"isRecommended\":fals\
+  e,\"githubStars\":1446,\"downloadCount\":601,\"createdAt\":\"2025-04-04T19:48\
+  :29.604163Z\",\"updatedAt\":\"2025-04-04T19:48:29.604163Z\"},{\"mcpId\":\"git\
+  hub.com/snaggle-ai/openapi-mcp-server\",\"githubUrl\":\"https://github.com/sn\
+  aggle-ai/openapi-mcp-server\",\"name\":\"OpenAPI
+  Proxy\",\"author\":\"snaggle-ai\",\"description\":\"Creates a proxy server
+  that converts any OpenAPI v3.1 compliant API into Claude-compatible tools,
+  enabling natural language interaction with APIs including file upload
+  support.\",\"codiconIcon\":\"link\",\"logoUrl\":\"https://storage.googleapis.\
+  com/cline_public_images/openapi.png\",\"category\":\"developer-tools\",\"tags\
+  \":[\"openapi\",\"api-integration\",\"proxy\",\"file-upload\",\"documentation\
+  \"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":436,\"do\
+  wnloadCount\":489,\"createdAt\":\"2025-02-17T22:45:43.055912Z\",\"updatedAt\":\
+  \"2025-02-17T22:45:43.055912Z\"},{\"mcpId\":\"github.com/JetBrains/mcp-jetbra\
+  ins\",\"githubUrl\":\"https://github.com/JetBrains/mcp-jetbrains\",\"name\":\
+  \"JetBrains IDE\",\"author\":\"JetBrains\",\"description\":\"Proxies requests
+  between AI assistants and JetBrains IDEs, enabling direct interaction with the
+  IDE's built-in webserver for development
+  tasks.\",\"codiconIcon\":\"symbol-class\",\"logoUrl\":\"https://storage.googl\
+  eapis.com/cline_public_images/jetbrains-logo.png\",\"category\":\"developer-t\
+  ools\",\"tags\":[\"ide-integration\",\"jetbrains\",\"development\",\"proxy\",\
+  \"automation\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\
+  \":438,\"downloadCount\":439,\"createdAt\":\"2025-02-17T22:47:35.793534Z\",\"\
+  updatedAt\":\"2025-02-17T22:47:35.793534Z\"},{\"mcpId\":\"github.com/neondata\
+  base/mcp-server-neon\",\"githubUrl\":\"https://github.com/neondatabase/mcp-se\
+  rver-neon\",\"name\":\"Neon
+  Database\",\"author\":\"neondatabase\",\"description\":\"Enables natural
+  language interaction with Neon PostgreSQL databases, supporting project
+  management, schema migrations, SQL queries, and database operations through
+  the Neon
+  API.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.googleapis.\
+  com/cline_public_images/neon-logo.png\",\"category\":\"databases\",\"tags\":[\
+  \"postgresql\",\"database-management\",\"migrations\",\"sql\",\"neon-api\"],\
+  \"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":166,\"downloa\
+  dCount\":438,\"createdAt\":\"2025-02-18T06:28:23.454334Z\",\"updatedAt\":\"20\
+  25-02-18T06:28:23.454334Z\"},{\"mcpId\":\"github.com/ahujasid/ableton-mcp\",\
+  \"githubUrl\":\"https://github.com/ahujasid/ableton-mcp\",\"name\":\"Ableton
+  Live\",\"author\":\"ahujasid\",\"description\":\"Controls Ableton Live through
+  socket-based communication, enabling AI-assisted music production with
+  features like track creation, MIDI manipulation, instrument selection, and
+  session
+  control.\",\"codiconIcon\":\"music\",\"logoUrl\":\"https://storage.googleapis\
+  .com/cline_public_images/ableton-live.png\",\"category\":\"entertainment-media\
+  \",\"tags\":[\"music-production\",\"midi\",\"audio-editing\",\"daw-control\",\
+  \"ableton\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\"\
+  :1107,\"downloadCount\":354,\"createdAt\":\"2025-03-27T20:04:05.827143Z\",\"u\
+  pdatedAt\":\"2025-03-27T20:04:05.827143Z\"},{\"mcpId\":\"github.com/Garoth/se\
+  ndgrid-mcp\",\"githubUrl\":\"https://github.com/Garoth/sendgrid-mcp\",\"name\
+  \":\"SendGrid\",\"author\":\"Garoth\",\"description\":\"Provides email
+  marketing and contact management capabilities through SendGrid's Marketing
+  API, enabling dynamic templates, contact list management, and bulk email
+  sending.\",\"codiconIcon\":\"mail\",\"logoUrl\":\"https://storage.googleapis.\
+  com/cline_public_images/sendgrid.png\",\"category\":\"marketing\",\"tags\":[\
+  \"email-marketing\",\"contact-management\",\"templates\",\"bulk-email\",\"sen\
+  dgrid-api\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\"\
+  :7,\"downloadCount\":348,\"createdAt\":\"2025-02-23T01:48:41.737092Z\",\"upda\
+  tedAt\":\"2025-02-23T01:48:41.737092Z\"},{\"mcpId\":\"github.com/elevenlabs/e\
+  levenlabs-mcp\",\"githubUrl\":\"https://github.com/elevenlabs/elevenlabs-mcp\
+  \",\"name\":\"ElevenLabs\",\"author\":\"elevenlabs\",\"description\":\"Enables
+  AI assistants to interact with ElevenLabs' Text-to-Speech and audio processing
+  APIs, supporting voice cloning, speech generation, transcription, and audio
+  manipulation.\",\"codiconIcon\":\"unmute\",\"logoUrl\":\"https://storage.goog\
+  leapis.com/cline_public_images/elevenlabs.png\",\"category\":\"speech-process\
+  ing\",\"tags\":[\"text-to-speech\",\"voice-cloning\",\"audio-processing\",\"t\
+  ranscription\",\"voice-design\"],\"requiresApiKey\":false,\"isRecommended\":f\
+  alse,\"githubStars\":47,\"downloadCount\":285,\"createdAt\":\"2025-04-07T20:0\
+  7:46.994814Z\",\"updatedAt\":\"2025-04-07T20:07:46.994814Z\"},{\"mcpId\":\"gi\
+  thub.com/apify/actors-mcp-server\",\"githubUrl\":\"https://github.com/apify/a\
+  ctors-mcp-server\",\"name\":\"Apify
+  Actors\",\"author\":\"apify\",\"description\":\"Enables AI assistants to
+  interact with Apify's web scraping and automation actors, providing access to
+  tools for data extraction, web searching, social media analysis, and
+  more.\",\"codiconIcon\":\"server-process\",\"logoUrl\":\"https://storage.goog\
+  leapis.com/cline_public_images/apify.jpg\",\"category\":\"search\",\"tags\":[\
+  \"web-scraping\",\"data-extraction\",\"automation\",\"actor-management\",\"ap\
+  ify-platform\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\
+  \":129,\"downloadCount\":267,\"createdAt\":\"2025-02-18T05:45:40.818024Z\",\"\
+  updatedAt\":\"2025-02-18T05:45:40.818024Z\"},{\"mcpId\":\"github.com/nickbaum\
+  ann98/everart-forge-mcp\",\"githubUrl\":\"https://github.com/nickbaumann98/ev\
+  erart-forge-mcp\",\"name\":\"EverArt
+  Forge\",\"author\":\"nickbaumann98\",\"description\":\"Advanced image
+  generation server integrating EverArt's AI models for creating vector and
+  raster images, supporting multiple formats and styles with flexible storage
+  options.\",\"codiconIcon\":\"image\",\"logoUrl\":\"https://storage.googleapis\
+  .com/cline_public_images/everart.png\",\"category\":\"image-video-processing\
+  \",\"tags\":[\"image-generation\",\"vector-graphics\",\"ai-models\",\"file-co\
+  nversion\",\"content-creation\"],\"requiresApiKey\":false,\"isRecommended\":f\
+  alse,\"githubStars\":2,\"downloadCount\":261,\"createdAt\":\"2025-02-18T23:04\
+  :08.935882Z\",\"updatedAt\":\"2025-02-18T23:04:08.935882Z\"},{\"mcpId\":\"git\
+  hub.com/firebase/genkit/tree/HEAD/js/plugins/mcp\",\"githubUrl\":\"https://gi\
+  thub.com/firebase/genkit/tree/HEAD/js/plugins/mcp\",\"name\":\"Genkit
+  Integration\",\"author\":\"firebase\",\"description\":\"Enables bi-directional
+  integration with Model Context Protocol, allowing applications to both consume
+  MCP tools/prompts as a client and expose Genkit tools/prompts as an MCP
+  server.\",\"codiconIcon\":\"extensions\",\"logoUrl\":\"https://storage.google\
+  apis.com/cline_public_images/genkit-integration.png\",\"category\":\"develope\
+  r-tools\",\"tags\":[\"mcp-integration\",\"client-server\",\"tools-prompts\",\
+  \"plugin\",\"genkit\"],\"requiresApiKey\":false,\"isRecommended\":true,\"gith\
+  ubStars\":1285,\"downloadCount\":237,\"createdAt\":\"2025-02-17T22:27:07.6610\
+  85Z\",\"updatedAt\":\"2025-02-17T22:27:07.661085Z\"},{\"mcpId\":\"github.com/\
+  kagisearch/kagimcp\",\"githubUrl\":\"https://github.com/kagisearch/kagimcp\",\
+  \"name\":\"Kagi
+  Search\",\"author\":\"kagisearch\",\"description\":\"Integrates Kagi's
+  advanced search API to provide AI assistants with up-to-date web search
+  capabilities and accurate information
+  retrieval.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.googlea\
+  pis.com/cline_public_images/kagisearch.jpeg\",\"category\":\"search\",\"tags\
+  \":[\"web-search\",\"information-retrieval\",\"kagi-api\",\"real-time-data\",\
+  \"search-engine\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubSt\
+  ars\":55,\"downloadCount\":223,\"createdAt\":\"2025-02-18T06:28:08.669226Z\",\
+  \"updatedAt\":\"2025-02-18T06:28:08.669226Z\"},{\"mcpId\":\"github.com/pashpa\
+  shpash/mcp-server-asana\",\"githubUrl\":\"https://github.com/pashpashpash/mcp\
+  -server-asana\",\"name\":\"Asana\",\"author\":\"pashpashpash\",\"description\
+  \":\"Enables AI assistants to interact with Asana workspaces, providing
+  comprehensive task and project management capabilities including creation,
+  search, updates, and status
+  tracking.\",\"codiconIcon\":\"project\",\"logoUrl\":\"https://storage.googlea\
+  pis.com/cline_public_images/asana.png\",\"category\":\"developer-tools\",\"ta\
+  gs\":[\"project-management\",\"task-tracking\",\"team-collaboration\",\"workf\
+  low\",\"asana-api\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githu\
+  bStars\":3,\"downloadCount\":216,\"createdAt\":\"2025-02-18T23:04:35.990279Z\
+  \",\"updatedAt\":\"2025-02-18T23:04:35.990279Z\"},{\"mcpId\":\"github.com/aws\
+  labs/mcp/tree/main/src/cdk-mcp-server\",\"githubUrl\":\"https://github.com/aw\
+  slabs/mcp/tree/main/src/cdk-mcp-server\",\"name\":\"AWS CDK
+  Assistant\",\"author\":\"awslabs\",\"description\":\"Provides guidance on AWS
+  CDK best practices, infrastructure patterns, and security compliance through
+  CDK Nag integration and AWS Solutions
+  Constructs.\",\"codiconIcon\":\"cloud\",\"logoUrl\":\"https://storage.googlea\
+  pis.com/cline_public_images/aws.png\",\"category\":\"cloud-platforms\",\"tags\
+  \":[\"aws-cdk\",\"infrastructure-as-code\",\"security-compliance\",\"cloud-ar\
+  chitecture\",\"aws\"],\"requiresApiKey\":false,\"isRecommended\":false,\"gith\
+  ubStars\":949,\"downloadCount\":187,\"createdAt\":\"2025-04-04T01:24:58.95895\
+  8Z\",\"updatedAt\":\"2025-04-04T01:24:58.958958Z\"},{\"mcpId\":\"github.com/a\
+  wslabs/mcp/tree/main/src/cost-analysis-mcp-server\",\"githubUrl\":\"https://g\
+  ithub.com/awslabs/mcp/tree/main/src/cost-analysis-mcp-server\",\"name\":\"Cost
+  Analysis\",\"author\":\"awslabs\",\"description\":\"Analyzes AWS service costs
+  and generates cost reports with natural language querying capabilities and
+  visualization tools for cost
+  optimization.\",\"codiconIcon\":\"graph\",\"logoUrl\":\"https://storage.googl\
+  eapis.com/cline_public_images/aws.png\",\"category\":\"monitoring\",\"tags\":[\
+  \"aws-costs\",\"cost-optimization\",\"cloud-pricing\",\"reporting\",\"analyti\
+  cs\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":949,\"\
+  downloadCount\":164,\"createdAt\":\"2025-04-04T01:26:17.400469Z\",\"updatedAt\
+  \":\"2025-04-04T01:26:17.400469Z\"},{\"mcpId\":\"github.com/motherduckdb/mcp-\
+  server-motherduck\",\"githubUrl\":\"https://github.com/motherduckdb/mcp-serve\
+  r-motherduck\",\"name\":\"MotherDuck\",\"author\":\"motherduckdb\",\"descript\
+  ion\":\"Enables database operations with MotherDuck and local DuckDB,
+  providing tools for connection initialization, schema reading, and query
+  execution.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.googl\
+  eapis.com/cline_public_images/motherduck-db.png\",\"category\":\"databases\",\
+  \"tags\":[\"duckdb\",\"motherduck\",\"sql\",\"database-management\",\"query-e\
+  xecution\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":6\
+  6,\"downloadCount\":145,\"createdAt\":\"2025-02-18T06:08:00.70702Z\",\"update\
+  dAt\":\"2025-02-18T06:08:00.70702Z\"},{\"mcpId\":\"github.com/oxylabs/oxylabs\
+  -mcp\",\"githubUrl\":\"https://github.com/oxylabs/oxylabs-mcp\",\"name\":\"Ox\
+  ylabs Scraper\",\"author\":\"oxylabs\",\"description\":\"Advanced web scraping
+  tool using Oxylabs Web Scraper API, supporting JavaScript rendering, HTML
+  parsing, and content transformation with flexible parsing
+  options.\",\"codiconIcon\":\"globe\",\"logoUrl\":\"https://storage.googleapis\
+  .com/cline_public_images/oxylabs-scraper.png\",\"category\":\"search\",\"tags\
+  \":[\"web-scraping\",\"content-extraction\",\"javascript-rendering\",\"html-p\
+  arsing\",\"data-collection\"],\"requiresApiKey\":false,\"isRecommended\":true,\
+  \"githubStars\":9,\"downloadCount\":141,\"createdAt\":\"2025-02-18T06:08:21.8\
+  91007Z\",\"updatedAt\":\"2025-02-18T06:08:21.891007Z\"},{\"mcpId\":\"github.c\
+  om/awslabs/mcp/tree/main/src/bedrock-kb-retrieval-mcp-server\",\"githubUrl\":\
+  \"https://github.com/awslabs/mcp/tree/main/src/bedrock-kb-retrieval-mcp-server\
+  \",\"name\":\"Bedrock Knowledge
+  Base\",\"author\":\"awslabs\",\"description\":\"Enables natural language
+  querying of Amazon Bedrock Knowledge Bases with features for discovery,
+  filtering, and result
+  reranking.\",\"codiconIcon\":\"library\",\"logoUrl\":\"https://storage.google\
+  apis.com/cline_public_images/aws.png\",\"category\":\"knowledge-memory\",\"ta\
+  gs\":[\"aws-bedrock\",\"knowledge-base\",\"search\",\"retrieval\",\"document-\
+  management\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\
+  \":949,\"downloadCount\":123,\"createdAt\":\"2025-04-04T01:25:39.965466Z\",\"\
+  updatedAt\":\"2025-04-04T01:25:39.965466Z\"},{\"mcpId\":\"github.com/pashpash\
+  pash/mcp-dice\",\"githubUrl\":\"https://github.com/pashpashpash/mcp-dice\",\"\
+  name\":\"Dice Roller\",\"author\":\"pashpashpash\",\"description\":\"A server
+  for rolling dice using standard dice notation, providing individual rolls,
+  sums, and modifiers with timestamp
+  tracking.\",\"codiconIcon\":\"symbol-number\",\"logoUrl\":\"https://storage.g\
+  oogleapis.com/cline_public_images/dice-roller.png\",\"category\":\"entertainm\
+  ent-media\",\"tags\":[\"dice-rolling\",\"random-generation\",\"gaming\",\"pro\
+  bability\",\"tabletop\"],\"requiresApiKey\":false,\"isRecommended\":false,\"g\
+  ithubStars\":1,\"downloadCount\":120,\"createdAt\":\"2025-02-18T23:04:46.9678\
+  59Z\",\"updatedAt\":\"2025-02-18T23:04:46.967859Z\"},{\"mcpId\":\"github.com/\
+  riza-io/riza-mcp\",\"githubUrl\":\"https://github.com/riza-io/riza-mcp\",\"na\
+  me\":\"Riza\",\"author\":\"riza-io\",\"description\":\"Provides a secure code
+  interpreter for executing LLM-generated code, with features for creating,
+  saving, managing, and executing code tools in an isolated
+  environment.\",\"codiconIcon\":\"terminal\",\"logoUrl\":\"https://storage.goo\
+  gleapis.com/cline_public_images/riza.png\",\"category\":\"developer-tools\",\
+  \"tags\":[\"code-execution\",\"sandbox\",\"code-interpreter\",\"tool-manageme\
+  nt\",\"security\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubSt\
+  ars\":6,\"downloadCount\":102,\"createdAt\":\"2025-02-18T06:28:33.910457Z\",\
+  \"updatedAt\":\"2025-02-18T06:28:33.910457Z\"},{\"mcpId\":\"github.com/awslab\
+  s/mcp/tree/main/src/nova-canvas-mcp-server\",\"githubUrl\":\"https://github.c\
+  om/awslabs/mcp/tree/main/src/nova-canvas-mcp-server\",\"name\":\"Nova
+  Canvas\",\"author\":\"awslabs\",\"description\":\"Generates AI images using
+  Amazon Nova Canvas, supporting text prompts and color palettes with
+  customizable dimensions, quality options, and multi-image
+  generation.\",\"codiconIcon\":\"paintcan\",\"logoUrl\":\"https://storage.goog\
+  leapis.com/cline_public_images/aws.png\",\"category\":\"image-video-processing\
+  \",\"tags\":[\"image-generation\",\"ai-art\",\"aws\",\"text-to-image\",\"colo\
+  r-palettes\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\
+  \":949,\"downloadCount\":90,\"createdAt\":\"2025-04-04T01:22:59.095407Z\",\"u\
+  pdatedAt\":\"2025-04-04T01:22:59.095407Z\"},{\"mcpId\":\"github.com/paypal/ag\
+  ent-toolkit\",\"githubUrl\":\"https://github.com/paypal/agent-toolkit\",\"name\
+  \":\"PayPal\",\"author\":\"paypal\",\"description\":\"Enables integration with
+  PayPal APIs for creating invoices, managing orders, and handling transactions
+  through multiple agent frameworks and function
+  calling.\",\"codiconIcon\":\"credit-card\",\"logoUrl\":\"https://storage.goog\
+  leapis.com/cline_public_images/paypal.png\",\"category\":\"finance\",\"tags\"\
+  :[\"payments\",\"invoicing\",\"transactions\",\"paypal-api\",\"financial-serv\
+  ices\"],\"requiresApiKey\":false,\"isRecommended\":false,\"githubStars\":22,\
+  \"downloadCount\":79,\"createdAt\":\"2025-04-08T05:48:29.23484Z\",\"updatedAt\
+  \":\"2025-04-08T05:48:29.23484Z\"},{\"mcpId\":\"github.com/needle-ai/needle-m\
+  cp\",\"githubUrl\":\"https://github.com/needle-ai/needle-mcp\",\"name\":\"Nee\
+  dle Search\",\"author\":\"needle-ai\",\"description\":\"Enables document
+  management and natural language search capabilities through the Needle
+  platform, allowing users to organize, store, and retrieve documents using
+  Claude's language
+  model.\",\"codiconIcon\":\"search\",\"logoUrl\":\"https://storage.googleapis.\
+  com/cline_public_images/needle-search.png\",\"category\":\"knowledge-memory\",\
+  \"tags\":[\"document-management\",\"search\",\"knowledge-base\",\"needle-api\
+  \",\"content-organization\"],\"requiresApiKey\":false,\"isRecommended\":true,\
+  \"githubStars\":31,\"downloadCount\":76,\"createdAt\":\"2025-02-18T06:08:09.6\
+  3413Z\",\"updatedAt\":\"2025-02-18T06:08:09.63413Z\"},{\"mcpId\":\"github.com\
+  /fireproof-storage/mcp-database-server\",\"githubUrl\":\"https://github.com/f\
+  ireproof-storage/mcp-database-server\",\"name\":\"Fireproof\",\"author\":\"fi\
+  reproof-storage\",\"description\":\"A JSON document store server providing
+  CRUD operations and field-based sorting queries, powered by Fireproof database
+  for seamless integration with AI
+  systems.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.googlea\
+  pis.com/cline_public_images/fireproof.png\",\"category\":\"databases\",\"tags\
+  \":[\"document-store\",\"json\",\"crud\",\"database\",\"storage\"],\"requires\
+  ApiKey\":false,\"isRecommended\":true,\"githubStars\":14,\"downloadCount\":67,\
+  \"createdAt\":\"2025-02-18T06:27:56.840721Z\",\"updatedAt\":\"2025-02-18T06:2\
+  7:56.840721Z\"},{\"mcpId\":\"github.com/metoro-io/metoro-mcp-server\",\"githu\
+  bUrl\":\"https://github.com/metoro-io/metoro-mcp-server\",\"name\":\"Kubernet\
+  es Observer\",\"author\":\"metoro-io\",\"description\":\"Enables interaction
+  with Kubernetes clusters through Metoro's observability platform, providing
+  eBPF-based telemetry and monitoring capabilities via natural language
+  queries.\",\"codiconIcon\":\"server-environment\",\"logoUrl\":\"https://stora\
+  ge.googleapis.com/cline_public_images/metoro.png\",\"category\":\"monitoring\
+  \",\"tags\":[\"kubernetes\",\"observability\",\"ebpf\",\"telemetry\",\"micros\
+  ervices\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":31,\
+  \"downloadCount\":63,\"createdAt\":\"2025-02-18T06:07:51.693578Z\",\"updatedAt\
+  \":\"2025-02-18T06:07:51.693578Z\"},{\"mcpId\":\"github.com/axiomhq/mcp-serve\
+  r-axiom\",\"githubUrl\":\"https://github.com/axiomhq/mcp-server-axiom\",\"name\
+  \":\"Axiom\",\"author\":\"axiomhq\",\"description\":\"Query and analyze data
+  using Axiom Processing Language (APL), enabling AI agents to interact with
+  Axiom datasets through natural
+  language.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.google\
+  apis.com/cline_public_images/axiom-query.png\",\"category\":\"databases\",\"t\
+  ags\":[\"data-query\",\"log-analysis\",\"apl\",\"datasets\",\"analytics\"],\"\
+  requiresApiKey\":false,\"isRecommended\":true,\"githubStars\":30,\"downloadCo\
+  unt\":52,\"createdAt\":\"2025-02-18T05:45:45.629989Z\",\"updatedAt\":\"2025-0\
+  2-18T05:45:45.629989Z\"},{\"mcpId\":\"github.com/IBM/wxflows/tree/main/exampl\
+  es/mcp/javascript\",\"githubUrl\":\"https://github.com/IBM/wxflows/tree/main/\
+  examples/mcp/javascript\",\"name\":\"WatsonX
+  Flows\",\"author\":\"IBM\",\"description\":\"Enables integration with
+  watsonx.ai Flows Engine, providing tools for Google Books and Wikipedia
+  searches through a TypeScript-based MCP server
+  implementation.\",\"codiconIcon\":\"flow\",\"logoUrl\":\"https://storage.goog\
+  leapis.com/cline_public_images/watsonx-flows.png\",\"category\":\"cloud-platf\
+  orms\",\"tags\":[\"watsonx\",\"flows-engine\",\"tool-integration\",\"search-t\
+  ools\",\"ibm-cloud\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githu\
+  bStars\":68,\"downloadCount\":39,\"createdAt\":\"2025-02-18T05:46:21.470556Z\
+  \",\"updatedAt\":\"2025-02-18T05:46:21.470556Z\"},{\"mcpId\":\"github.com/esi\
+  gnaturescom/mcp-server-esignatures\",\"githubUrl\":\"https://github.com/esign\
+  aturescom/mcp-server-esignatures\",\"name\":\"eSignatures\",\"author\":\"esig\
+  naturescom\",\"description\":\"Manages digital contract workflows including
+  creation, sending, and template management for electronic signatures through
+  the eSignatures
+  platform.\",\"codiconIcon\":\"file-text\",\"logoUrl\":\"https://storage.googl\
+  eapis.com/cline_public_images/esignatures.png\",\"category\":\"license\",\"ta\
+  gs\":[\"digital-signatures\",\"contracts\",\"document-management\",\"templates\
+  \",\"collaboration\"],\"requiresApiKey\":false,\"isRecommended\":true,\"githu\
+  bStars\":10,\"downloadCount\":38,\"createdAt\":\"2025-02-18T05:46:04.573832Z\
+  \",\"updatedAt\":\"2025-02-18T05:46:04.573832Z\"},{\"mcpId\":\"github.com/Min\
+  dscapeHQ/mcp-server-raygun\",\"githubUrl\":\"https://github.com/MindscapeHQ/m\
+  cp-server-raygun\",\"name\":\"Raygun\",\"author\":\"MindscapeHQ\",\"descripti\
+  on\":\"Provides comprehensive access to Raygun's error tracking, crash
+  reporting, and real user monitoring features through API integration, enabling
+  management of applications, errors, deployments, and performance
+  metrics.\",\"codiconIcon\":\"bug\",\"logoUrl\":\"https://storage.googleapis.c\
+  om/cline_public_images/raygun.png\",\"category\":\"monitoring\",\"tags\":[\"e\
+  rror-tracking\",\"crash-reporting\",\"performance-monitoring\",\"debugging\",\
+  \"application-monitoring\"],\"requiresApiKey\":false,\"isRecommended\":true,\
+  \"githubStars\":7,\"downloadCount\":31,\"createdAt\":\"2025-02-18T06:28:29.20\
+  344Z\",\"updatedAt\":\"2025-02-18T06:28:29.20344Z\"},{\"mcpId\":\"github.com/\
+  Verodat/verodat-mcp-server\",\"githubUrl\":\"https://github.com/Verodat/verod\
+  at-mcp-server\",\"name\":\"Verodat\",\"author\":\"Verodat\",\"description\":\
+  \"Enables AI systems to interact with Verodat's data management platform,
+  providing capabilities for dataset creation, querying, and AI-powered analysis
+  across workspaces and
+  accounts.\",\"codiconIcon\":\"database\",\"logoUrl\":\"https://storage.google\
+  apis.com/cline_public_images/verodata.png\",\"category\":\"databases\",\"tags\
+  \":[\"data-management\",\"dataset-operations\",\"workspace-management\",\"dat\
+  a-validation\",\"ai-integration\"],\"requiresApiKey\":false,\"isRecommended\"\
+  :true,\"githubStars\":1,\"downloadCount\":20,\"createdAt\":\"2025-02-18T06:27\
+  :44.307829Z\",\"updatedAt\":\"2025-02-18T06:27:44.307829Z\"}]},\"apiProvider\
+  \":\"cline\",\"userInfo\":{\"displayName\":\"Phan
+  Quan\",\"email\":\"phanquan2401@gmail.com\",\"photoURL\":\"https://lh3.google\
+  usercontent.com/a/ACg8ocKoKjbQk5ZdyPnFeBTwJdHTKSdtHfdz14es5hnZIINyJI-BSyrJ=s9\
+  6-c\"},\"telemetrySetting\":\"enabled\"}"
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.search","pinned":true,"visible":false,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":false,"order":2},{"id":"workbench.view.explorer","pinned":true,"visible":false,"order":0},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":false,"order":13},{"id":"workbench.view.extension.flutter","pinned":true,"visible":false,"order":8},{"id":"workbench.view.extension.flutterPropertyEditor","pinned":true,"visible":false,"order":9},{"id":"workbench.view.extension.sidebarDevToolsContainer","pinned":true,"visible":false,"order":10},{"id":"workbench.view.extension.sidebarDevToolsInspectorContainer","pinned":true,"visible":false,"order":11},{"id":"workbench.view.extension.sidebarDevToolsDeepLinksContainer","pinned":true,"visible":false,"order":12},{"id":"workbench.view.extension.tabnine","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extension.claude-dev-ActivityBar","pinned":true,"visible":false,"order":17},{"id":"workbench.views.service.sidebar.e248610a-50a8-411f-8ffb-6f3af1417df7","pinned":true,"visible":false},{"id":"workbench.view.debug","pinned":true,"visible":false,"order":3},{"id":"workbench.view.remote","pinned":true,"visible":false,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.gitlens","pinned":true,"visible":false,"order":14},{"id":"workbench.view.extensions","pinned":true,"visible":false,"order":4},{"id":"workbench.views.service.sidebar.41b8bf30-1720-40d5-b1d3-5f0b19ca4c20","pinned":true,"visible":false},{"id":"workbench.views.service.sidebar.fedb6bd0-719f-4885-a20c-bb0fcd0216cd","pinned":true,"visible":false},{"id":"workbench.views.service.sidebar.386a1966-91f0-4d04-8002-d00e58e119c4","pinned":true,"visible":false},{"id":"workbench.view.extension.gitlensInspect","pinned":true,"visible":false,"order":15},{"id":"workbench.view.extension.gitlensPatch","pinned":true,"visible":false,"order":16}]'
 workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.search\",\"t\
   hemeIcon\":{\"id\":\"search-view-icon\"},\"name\":\"Search\",\"isBuiltin\":tr\
   ue,\"views\":[]},{\"id\":\"workbench.view.scm\",\"themeIcon\":{\"id\":\"sourc\
@@ -10,36 +1105,99 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.search\",\"t\
   iltin\":true,\"views\":[{},{\"when\":\"scm.providerCount && scm.providerCount
   != '0'\"},{},{\"when\":\"scm.historyProviderCount && scm.historyProviderCount
   !=
-  '0'\"},{\"when\":\"npm:showScriptExplorer\"},{\"when\":\"go.showExplorer\"},{\
-  \"when\":\"go.showPackageOutline\"}]},{\"id\":\"workbench.view.extension.dock\
-  erView\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-azuret\
-  ools.vscode-docker-1.29.5-universal/resources/docker.svg\",\"scheme\":\"file\
-  \"},\"name\":\"Docker\",\"isBuiltin\":false,\"views\":[{},{},{},{},{},{},{}]}\
-  ,{\"id\":\"workbench.view.extension.flutter\",\"iconUrl\":{\"$mid\":1,\"path\
-  \":\"%%EXTENSION_DATA_PATH%%/dart-code.dart-code-3.108.1-universal/media/icon\
-  s/sidebar/flutter.svg\",\"scheme\":\"file\"},\"name\":\"Flutter\",\"isBuiltin\
-  \":false,\"views\":[]},{\"id\":\"workbench.view.extension.flutterPropertyEdit\
-  or\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/dart-code.dar\
-  t-code-3.108.1-universal/media/icons/sidebar/property_editor.svg\",\"scheme\":\
-  \"file\"},\"name\":\"Flutter Property
-  Editor\",\"isBuiltin\":false,\"views\":[]},{\"id\":\"workbench.view.extension\
-  .sidebarDevToolsContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DA\
-  TA_PATH%%/dart-code.dart-code-3.108.1-universal/media/icons/sidebar/devtools.\
-  svg\",\"scheme\":\"file\"},\"name\":\"Flutter
-  DevTools\",\"isBuiltin\":false,\"views\":[]},{\"id\":\"workbench.view.extensi\
-  on.sidebarDevToolsInspectorContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%E\
-  XTENSION_DATA_PATH%%/dart-code.dart-code-3.108.1-universal/media/icons/sideba\
-  r/inspector.svg\",\"scheme\":\"file\"},\"name\":\"Flutter DevTools:
-  Inspector\",\"isBuiltin\":false,\"views\":[]},{\"id\":\"workbench.view.extens\
-  ion.sidebarDevToolsDeepLinksContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%\
-  EXTENSION_DATA_PATH%%/dart-code.dart-code-3.108.1-universal/media/icons/sideb\
-  ar/deep_links.svg\",\"scheme\":\"file\"},\"name\":\"Flutter DevTools: Deep
-  Links\",\"isBuiltin\":false,\"views\":[]},{\"id\":\"workbench.views.service.s\
-  idebar.e248610a-50a8-411f-8ffb-6f3af1417df7\",\"themeIcon\":{\"id\":\"search-\
-  view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\
-  \"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view-icon\"},\"name\":\"\
-  Run and Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
-  'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
+  '0'\"},{\"when\":\"npm:showScriptExplorer\"},{\"when\":\"!config.gitlens.view\
+  s.scm.grouped.views.repositories && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:repositories\"},{\"when\":\"!config.gitlens.\
+  views.scm.grouped.views.commits && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:commits\"},{\"when\":\"!config.gitlens.views\
+  .scm.grouped.views.branches && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:branches\"},{\"when\":\"!config.gitlens.view\
+  s.scm.grouped.views.remotes && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:remotes\"},{\"when\":\"!config.gitlens.views\
+  .scm.grouped.views.stashes && !gitlens:disabled && !gitlens:hasVirtualFolders
+  &&
+  !gitlens:views:scm:grouped:views:stashes\"},{\"when\":\"!config.gitlens.views\
+  .scm.grouped.views.tags && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:tags\"},{\"when\":\"gitlens:plus:enabled &&
+  !config.gitlens.views.scm.grouped.views.worktrees && !gitlens:disabled &&
+  !gitlens:hasVirtualFolders &&
+  !gitlens:views:scm:grouped:views:worktrees\"},{\"when\":\"!config.gitlens.vie\
+  ws.scm.grouped.views.contributors && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:contributors\"},{\"when\":\"config.gitlens.v\
+  iews.scm.grouped.views.branches && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.commits && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.contributors && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.launchpad && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.remotes && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.repositories && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.searchAndCompare && !gitlens:disabled
+  || config.gitlens.views.scm.grouped.views.stashes && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.tags && !gitlens:disabled ||
+  config.gitlens.views.scm.grouped.views.worktrees && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:branches && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:commits && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:contributors && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:launchpad && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:remotes && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:repositories && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:searchAndCompare && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:stashes && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:tags && !gitlens:disabled ||
+  gitlens:views:scm:grouped:views:worktrees &&
+  !gitlens:disabled\"},{\"when\":\"config.dart.enablePub &&
+  dart-code:anyProjectLoaded\"},{\"when\":\"go.showExplorer\"},{\"when\":\"go.s\
+  howPackageOutline\"}]},{\"id\":\"workbench.view.extension.dockerView\",\"icon\
+  Url\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/ms-azuretools.vscode-doc\
+  ker-1.29.5-universal/resources/docker.svg\",\"scheme\":\"file\"},\"name\":\"D\
+  ocker\",\"isBuiltin\":false,\"views\":[{},{},{},{},{},{},{}]},{\"id\":\"workb\
+  ench.view.extension.flutter\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_\
+  DATA_PATH%%/dart-code.dart-code-3.108.1-universal/media/icons/sidebar/flutter\
+  .svg\",\"scheme\":\"file\"},\"name\":\"Flutter\",\"isBuiltin\":false,\"views\
+  \":[{\"when\":\"dart-code:anyFlutterProjectLoaded &&
+  dart-code:flutterSidebarSupported\"},{\"when\":\"dart-code:anyFlutterProjectL\
+  oaded\"}]},{\"id\":\"workbench.view.extension.flutterPropertyEditor\",\"iconU\
+  rl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/dart-code.dart-code-3.108\
+  .1-universal/media/icons/sidebar/property_editor.svg\",\"scheme\":\"file\"},\
+  \"name\":\"Flutter Property
+  Editor\",\"isBuiltin\":false,\"views\":[{\"when\":\"dart-code:anyFlutterProje\
+  ctLoaded &&
+  dart-code:flutterPropertyEditorSupported\"}]},{\"id\":\"workbench.view.extens\
+  ion.sidebarDevToolsContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION\
+  _DATA_PATH%%/dart-code.dart-code-3.108.1-universal/media/icons/sidebar/devtoo\
+  ls.svg\",\"scheme\":\"file\"},\"name\":\"Flutter
+  DevTools\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.dart.experimenta\
+  lSidebarDevTools && dart-code:anyFlutterProjectLoaded &&
+  dart-code:devToolsSidebar.cpu-profiler\"},{\"when\":\"config.dart.experimenta\
+  lSidebarDevTools && dart-code:anyFlutterProjectLoaded &&
+  dart-code:devToolsSidebar.memory\"},{\"when\":\"config.dart.experimentalSideb\
+  arDevTools && dart-code:anyFlutterProjectLoaded &&
+  dart-code:devToolsSidebar.performance\"},{\"when\":\"config.dart.experimental\
+  SidebarDevTools && dart-code:anyFlutterProjectLoaded &&
+  dart-code:devToolsSidebar.network\"},{\"when\":\"config.dart.experimentalSide\
+  barDevTools && dart-code:anyFlutterProjectLoaded &&
+  dart-code:devToolsSidebar.logging\"}]},{\"id\":\"workbench.view.extension.sid\
+  ebarDevToolsInspectorContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSI\
+  ON_DATA_PATH%%/dart-code.dart-code-3.108.1-universal/media/icons/sidebar/insp\
+  ector.svg\",\"scheme\":\"file\"},\"name\":\"Flutter DevTools:
+  Inspector\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.dart.experiment\
+  alSidebarDevTools && dart-code:anyFlutterProjectLoaded &&
+  dart-code:devToolsSidebar.inspector\"}]},{\"id\":\"workbench.view.extension.s\
+  idebarDevToolsDeepLinksContainer\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTEN\
+  SION_DATA_PATH%%/dart-code.dart-code-3.108.1-universal/media/icons/sidebar/de\
+  ep_links.svg\",\"scheme\":\"file\"},\"name\":\"Flutter DevTools: Deep
+  Links\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.dart.experimentalSi\
+  debarDevTools && dart-code:anyFlutterProjectLoaded &&
+  dart-code:devToolsSidebar.deep-links\"}]},{\"id\":\"workbench.view.extension.\
+  tabnine\",\"name\":\"Tabnine
+  AI\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.claude-dev-Activ\
+  ityBar\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/saoudrizw\
+  an.claude-dev-3.10.0-universal/assets/icons/icon.svg\",\"scheme\":\"file\"},\
+  \"name\":\"Cline\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.vi\
+  ews.service.sidebar.e248610a-50a8-411f-8ffb-6f3af1417df7\",\"themeIcon\":{\"id\
+  \":\"search-view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"views\":[{}\
+  ]},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view-icon\"},\
+  \"name\":\"Run and Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx
+  == 'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
   'default'\"},{\"when\":\"debugUx ==
   'default'\"},{\"when\":\"loadedScriptsSupported && debugUx ==
   'default'\"},{\"when\":\"breakpointsExist || hasDebugged || debugUx ==
@@ -59,11 +1217,17 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.search\",\"t\
   },{\"id\":\"workbench.view.extension.references-view\",\"themeIcon\":{\"id\":\
   \"references\"},\"name\":\"References\",\"isBuiltin\":false,\"views\":[{\"when\
   \":\"reference-list.isActive\"}]},{\"id\":\"workbench.view.extension.gitlens\
-  \",\"name\":\"GitLens\",\"isBuiltin\":false},{\"id\":\"workbench.view.extensi\
-  ons\",\"themeIcon\":{\"id\":\"extensions-view-icon\"},\"name\":\"Extensions\",\
-  \"isBuiltin\":true,\"views\":[{\"when\":\"defaultExtensionViews\"},{\"when\":\
-  \"searchExtensionUpdates ||
-  searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
+  \",\"themeIcon\":{\"id\":\"gitlens-gitlens\"},\"name\":\"GitLens\",\"isBuiltin\
+  \":false,\"views\":[{},{\"when\":\"!config.gitlens.views.scm.grouped.views.la\
+  unchpad &&
+  !gitlens:views:scm:grouped:views:launchpad\"},{\"when\":\"config.gitlens.clou\
+  dPatches.enabled && gitlens:gk:organization:drafts:enabled &&
+  !gitlens:hasVirtualFolders &&
+  !gitlens:untrusted\"},{\"when\":\"!gitlens:hasVirtualFolders &&
+  !gitlens:untrusted\"}]},{\"id\":\"workbench.view.extensions\",\"themeIcon\":{\
+  \"id\":\"extensions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\":true,\
+  \"views\":[{\"when\":\"defaultExtensionViews\"},{\"when\":\"searchExtensionUp\
+  dates || searchOutdatedExtensions\"},{\"when\":\"recommendedExtensions &&
   workbenchState != 'empty'\"},{\"when\":\"defaultExtensionViews && hasGallery
   && !hasInstalledExtensions\"},{\"when\":\"searchExtensionUpdates ||
   searchRecentlyUpdatedExtensions\"},{\"when\":\"recommendedExtensions\"},{\"wh\
@@ -89,9 +1253,20 @@ workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.search\",\"t\
   \":\"workbench.views.service.sidebar.386a1966-91f0-4d04-8002-d00e58e119c4\",\
   \"themeIcon\":{\"id\":\"timeline-view-icon\"},\"name\":\"Timeline\",\"isBuilt\
   in\":true,\"views\":[{\"when\":\"timelineHasProvider\"}]},{\"id\":\"workbench\
-  .view.extension.gitlensInspect\",\"name\":\"GitLens
-  Inspect\",\"isBuiltin\":false},{\"id\":\"workbench.view.extension.gitlensPatch\
-  \",\"name\":\"GitLens Patch\",\"isBuiltin\":false}]"
+  .view.extension.gitlensInspect\",\"themeIcon\":{\"id\":\"gitlens-gitlens-insp\
+  ect\"},\"name\":\"GitLens
+  Inspect\",\"isBuiltin\":false,\"views\":[{\"when\":\"!gitlens:disabled\"},{\"\
+  when\":\"gitlens:views:pullRequest:visible &&
+  !gitlens:disabled\"},{\"when\":\"!gitlens:disabled &&
+  !gitlens:hasVirtualFolders\"},{\"when\":\"!gitlens:disabled\"},{\"when\":\"gi\
+  tlens:plus:enabled &&
+  !gitlens:disabled\"},{\"when\":\"!config.gitlens.views.scm.grouped.views.sear\
+  chAndCompare && !gitlens:disabled &&
+  !gitlens:views:scm:grouped:views:searchAndCompare\"}]},{\"id\":\"workbench.vi\
+  ew.extension.gitlensPatch\",\"themeIcon\":{\"id\":\"gitlens-cloud-patch\"},\"\
+  name\":\"GitLens
+  Patch\",\"isBuiltin\":false,\"views\":[{\"when\":\"config.gitlens.cloudPatche\
+  s.enabled && gitlens:views:patchDetails:mode && !gitlens:untrusted\"}]}]"
 workbench.activityBar.location: default
 workbench.auxiliarybar.pinnedPanels: '[{"id":"workbench.panel.chat","pinned":true,"visible":false,"order":100},{"id":"workbench.panel.chatEditing","pinned":true,"visible":false,"order":101}]'
 workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chat","themeIcon":{"id":"comment-discussion"},"name":"Chat","isBuiltin":true,"views":[{"when":"chatExtensionInvalid
@@ -103,7 +1278,7 @@ workbench.auxiliarybar.placeholderPanels: '[{"id":"workbench.panel.chat","themeI
   config.chat.unifiedChatView && showMovedChatEditsView &&
   !chatSetupHidden"}]}]'
 workbench.auxiliaryBar.size: "300"
-workbench.editor.languageDetectionOpenedLanguages.global: '[["plaintext",true],["yaml",true]]'
+workbench.editor.languageDetectionOpenedLanguages.global: '[["plaintext",true],["yaml",true],["jsonc",true]]'
 workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false,"order":4},{"id":"timeline","isHidden":false,"order":5},{"id":"workbench.explorer.openEditorsView","isHidden":true,"order":0},{"id":"workbench.explorer.emptyView","isHidden":false,"order":2},{"id":"npm","isHidden":true,"order":7},{"id":"workbench.scm.repositories","isHidden":false,"order":1},{"id":"workbench.scm","isHidden":false,"order":3},{"id":"workbench.scm.history","isHidden":false,"order":6},{"id":"gitlens.views.repositories","isHidden":false,"order":8},{"id":"gitlens.views.commits","isHidden":false,"order":9},{"id":"gitlens.views.branches","isHidden":false,"order":10},{"id":"gitlens.views.remotes","isHidden":false,"order":11},{"id":"gitlens.views.stashes","isHidden":false,"order":12},{"id":"gitlens.views.tags","isHidden":false,"order":13},{"id":"gitlens.views.worktrees","isHidden":false,"order":14},{"id":"gitlens.views.contributors","isHidden":false,"order":15},{"id":"gitlens.views.scm.grouped","isHidden":false,"order":16},{"id":"workbench.view.search","isHidden":false,"order":17},{"id":"go.explorer","isHidden":false},{"id":"go.package.outline","isHidden":false},{"id":"dartDependencyTree","isHidden":false}]'
 workbench.panel.alignment: center
 workbench.panel.chat.hidden: '[{"id":"workbench.panel.chat.view.copilot","isHidden":false}]'
@@ -114,23 +1289,25 @@ workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false
 workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","pinned":true,"visible":false,"order":0},{"id":"workbench.panel.output","pinned":true,"visible":false,"order":1},{"id":"workbench.panel.repl","pinned":true,"visible":false,"order":2},{"id":"terminal","pinned":true,"visible":false,"order":3},{"id":"workbench.panel.testResults","pinned":true,"visible":false,"order":3},{"id":"~remote.forwardedPortsContainer","pinned":true,"visible":false,"order":5},{"id":"workbench.view.extension.gitlensPanel","pinned":true,"visible":false,"order":6},{"id":"refactorPreview","pinned":true,"visible":false}]'
 workbench.panel.placeholderPanels: '[{"id":"workbench.panel.markers","themeIcon":{"id":"markers-view-icon"},"name":"Problems","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.output","themeIcon":{"id":"output-view-icon"},"name":"Output","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.repl","themeIcon":{"id":"debug-console-view-icon"},"name":"Debug
   Console","isBuiltin":true,"views":[{"when":"debuggersAvailable"}]},{"id":"terminal","themeIcon":{"id":"terminal-view-icon"},"name":"Terminal","isBuiltin":true,"views":[{}]},{"id":"workbench.panel.testResults","themeIcon":{"id":"test-results-icon"},"name":"Test
-  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.gitlensPanel","name":"GitLens","isBuiltin":false},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
+  Results","isBuiltin":true,"views":[{"when":"testing.hasAnyResults"}]},{"id":"~remote.forwardedPortsContainer","themeIcon":{"id":"ports-view-icon"},"name":"Ports","isBuiltin":true,"views":[{}]},{"id":"workbench.view.extension.gitlensPanel","themeIcon":{"id":"gitlens-graph"},"name":"GitLens","isBuiltin":false,"views":[]},{"id":"refactorPreview","themeIcon":{"id":"refactor-preview-view-icon"},"name":"Refactor
   Preview","isBuiltin":true,"views":[{"when":"refactorPreview.enabled"}]}]'
 workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
 workbench.panel.size: "266"
 workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false},{"id":"workbench.scm.history","isHidden":false},{"id":"gitlens.views.repositories","isHidden":true},{"id":"gitlens.views.commits","isHidden":false},{"id":"gitlens.views.branches","isHidden":false},{"id":"gitlens.views.remotes","isHidden":false},{"id":"gitlens.views.stashes","isHidden":false},{"id":"gitlens.views.tags","isHidden":false},{"id":"gitlens.views.worktrees","isHidden":false},{"id":"gitlens.views.contributors","isHidden":false},{"id":"gitlens.views.scm.grouped","isHidden":false}]'
 workbench.sideBar.size: "300"
 workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false},{"id":"jsDebugNetworkTree","isHidden":false}]'
+workbench.view.extension.claude-dev-ActivityBar.state.hidden: '[{"id":"claude-dev.SidebarProvider","isHidden":false}]'
 workbench.view.extension.dockerView.state.hidden: '[{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false}]'
 workbench.view.extension.gitlens.state.hidden: '[{"id":"gitlens.views.home","isHidden":false},{"id":"gitlens.views.launchpad","isHidden":false},{"id":"gitlens.views.drafts","isHidden":false},{"id":"gitlens.views.workspaces","isHidden":false}]'
 workbench.view.extension.gitlensInspect.state.hidden: '[{"id":"gitlens.views.commitDetails","isHidden":false},{"id":"gitlens.views.pullRequest","isHidden":false},{"id":"gitlens.views.lineHistory","isHidden":false},{"id":"gitlens.views.fileHistory","isHidden":false},{"id":"gitlens.views.timeline","isHidden":false},{"id":"gitlens.views.searchAndCompare","isHidden":false}]'
+workbench.view.extension.tabnine.state.hidden: '[{"id":"tabnine.chat","isHidden":false},{"id":"tabnine.chat.authenticate","isHidden":false},{"id":"tabnine.chat.not_part_of_a_team","isHidden":false},{"id":"tabnine.loading","isHidden":false}]'
 workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false}]'
 workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
-workbench.views.extensions.installed.size: "2"
+workbench.views.extensions.installed.size: "22"
 workbench.views.service.sidebar.386a1966-91f0-4d04-8002-d00e58e119c4.state.hidden: '[{"id":"timeline","isHidden":false}]'
 workbench.views.service.sidebar.41b8bf30-1720-40d5-b1d3-5f0b19ca4c20.state.hidden: '[{"id":"workbench.scm","isHidden":false}]'
 workbench.views.service.sidebar.e248610a-50a8-411f-8ffb-6f3af1417df7.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
 workbench.views.service.sidebar.fedb6bd0-719f-4885-a20c-bb0fcd0216cd.state.hidden: '[{"id":"outline","isHidden":false}]'
 workbench.welcomePage.hiddenCategories: '["Setup","eamodio.gitlens#welcome","SetupWeb"]'
-workbench.welcomePage.walkthroughMetadata: '[["eamodio.gitlens#welcome",{"firstSeen":1743994319188,"stepIDs":["get-started-community","welcome-in-trial","welcome-in-trial-expired","welcome-in-trial-expired-eligible","welcome-paid","welcome-home-view","visualize-code-history","accelerate-pr-reviews","streamline-collaboration","improve-workflows-with-integrations"],"manaullyOpened":false}]]'
+workbench.welcomePage.walkthroughMetadata: '[["eamodio.gitlens#welcome",{"firstSeen":1743994319188,"stepIDs":["get-started-community","welcome-in-trial","welcome-in-trial-expired","welcome-in-trial-expired-eligible","welcome-paid","welcome-home-view","visualize-code-history","accelerate-pr-reviews","streamline-collaboration","improve-workflows-with-integrations"],"manaullyOpened":false}],["ms-azuretools.vscode-docker#dockerStart",{"firstSeen":1744195398956,"stepIDs":["openFolder","openFolderMac","scaffold","buildImage","runContainer","dockerExplorer","pushImage","azDeploy","learn"],"manaullyOpened":false}],["ms-python.python#pythonWelcome",{"firstSeen":1744195398956,"stepIDs":["python.createPythonFolder","python.createPythonFile","python.installPythonWin8","python.installPythonMac","python.installPythonLinux","python.createEnvironment","python.runAndDebug","python.learnMoreWithDS"],"manaullyOpened":false}],["ms-python.python#pythonDataScienceWelcome",{"firstSeen":1744195398956,"stepIDs":["python.installJupyterExt","python.createNewNotebook","python.openInteractiveWindow","python.dataScienceLearnMore"],"manaullyOpened":false}]]'
 zokugun.cron-tasks: '{"version":"0.2.0"}'
