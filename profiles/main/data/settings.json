@@ -1,10 +1,10 @@
 {
     "workbench.sideBar.location": "right",
     "redhat.telemetry.enabled": true,
-    "workbench.iconTheme": "atom-font-icons",
     "workbench.colorTheme": "Atom One Dark",
     "editor.fontFamily": "Fira Code",
     "editor.fontLigatures": true,
     "terminal.external.osxExec": "Iterm.app",
-    "tabnine.experimentalAutoImports": true
+    "tabnine.experimentalAutoImports": true,
+    "workbench.iconTheme": "material-icon-theme"
 }
