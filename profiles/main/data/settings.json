@@ -7,8 +7,11 @@
     "terminal.external.osxExec": "Iterm.app",
     "tabnine.experimentalAutoImports": true,
     "workbench.iconTheme": "material-icon-theme",
-    "files.autoSave": "afterDelay",
     "workbench.settings.applyToAllProfiles": [
         "files.autoSave"
-    ]
+    ],
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.autoSave": "onFocusChange"
 }
