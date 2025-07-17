@@ -28,6 +28,8 @@ enabled:
     uuid: f30b63fa-e34a-40af-a573-5de5ecfb6c5e
   - id: mhutchie.git-graph
     uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
+  - id: ms-azuretools.vscode-containers
+    uuid: 2cd1d691-3d69-4d2d-ae39-fda4bc4cfd3d
   - id: ms-azuretools.vscode-docker
     uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
   - id: ms-python.debugpy
@@ -42,8 +44,6 @@ enabled:
     uuid: 2061917f-f76a-458a-8da9-f162de22b97e
   - id: ritwickdey.LiveServer
     uuid: 46cc5bbd-b098-4568-9b87-f91e07d26f2d
-  - id: saoudrizwan.claude-dev
-    uuid: ad94c633-a9d5-4f78-b85f-c664e7d91a0f
   - id: vscode-icons-team.vscode-icons
     uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
   - id: Vue.volar
